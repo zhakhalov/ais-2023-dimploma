@@ -1,0 +1,9018 @@
+{
+  "segments": [
+    {
+      "start": 4.062,
+      "end": 9.426,
+      "text": " So in my video with Steve Strogatz about the Brachistochrone, we referenced this thing called Snell's Law.",
+      "words": [
+        {
+          "word": "So",
+          "start": 4.062,
+          "end": 4.202,
+          "score": 0.855
+        },
+        {
+          "word": "in",
+          "start": 4.442,
+          "end": 4.502,
+          "score": 0.925
+        },
+        {
+          "word": "my",
+          "start": 4.522,
+          "end": 4.622,
+          "score": 0.861
+        },
+        {
+          "word": "video",
+          "start": 4.642,
+          "end": 4.863,
+          "score": 0.548
+        },
+        {
+          "word": "with",
+          "start": 4.883,
+          "end": 5.003,
+          "score": 0.861
+        },
+        {
+          "word": "Steve",
+          "start": 5.043,
+          "end": 5.243,
+          "score": 0.828
+        },
+        {
+          "word": "Strogatz",
+          "start": 5.263,
+          "end": 5.683,
+          "score": 0.782
+        },
+        {
+          "word": "about",
+          "start": 5.723,
+          "end": 5.903,
+          "score": 0.66
+        },
+        {
+          "word": "the",
+          "start": 5.923,
+          "end": 5.983,
+          "score": 0.996
+        },
+        {
+          "word": "Brachistochrone,",
+          "start": 6.023,
+          "end": 6.764,
+          "score": 0.702
+        },
+        {
+          "word": "we",
+          "start": 7.164,
+          "end": 7.284,
+          "score": 0.834
+        },
+        {
+          "word": "referenced",
+          "start": 7.304,
+          "end": 7.624,
+          "score": 0.719
+        },
+        {
+          "word": "this",
+          "start": 7.664,
+          "end": 7.765,
+          "score": 0.824
+        },
+        {
+          "word": "thing",
+          "start": 7.805,
+          "end": 7.985,
+          "score": 0.903
+        },
+        {
+          "word": "called",
+          "start": 8.025,
+          "end": 8.225,
+          "score": 0.917
+        },
+        {
+          "word": "Snell's",
+          "start": 8.285,
+          "end": 8.605,
+          "score": 0.73
+        },
+        {
+          "word": "Law.",
+          "start": 8.665,
+          "end": 8.945,
+          "score": 0.926
+        }
+      ]
+    },
+    {
+      "start": 9.426,
+      "end": 16.29,
+      "text": "It's the principle in physics that tells you how light bends as it travels from one medium into another where its speed changes.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 9.426,
+          "end": 9.546,
+          "score": 0.665
+        },
+        {
+          "word": "the",
+          "start": 9.586,
+          "end": 9.726,
+          "score": 0.914
+        },
+        {
+          "word": "principle",
+          "start": 9.826,
+          "end": 10.226,
+          "score": 0.758
+        },
+        {
+          "word": "in",
+          "start": 10.266,
+          "end": 10.326,
+          "score": 0.473
+        },
+        {
+          "word": "physics",
+          "start": 10.366,
+          "end": 10.667,
+          "score": 0.857
+        },
+        {
+          "word": "that",
+          "start": 10.707,
+          "end": 10.827,
+          "score": 0.874
+        },
+        {
+          "word": "tells",
+          "start": 10.847,
+          "end": 11.027,
+          "score": 0.806
+        },
+        {
+          "word": "you",
+          "start": 11.067,
+          "end": 11.167,
+          "score": 0.884
+        },
+        {
+          "word": "how",
+          "start": 11.247,
+          "end": 11.407,
+          "score": 0.865
+        },
+        {
+          "word": "light",
+          "start": 11.447,
+          "end": 11.647,
+          "score": 0.862
+        },
+        {
+          "word": "bends",
+          "start": 11.707,
+          "end": 12.067,
+          "score": 0.787
+        },
+        {
+          "word": "as",
+          "start": 12.408,
+          "end": 12.488,
+          "score": 0.832
+        },
+        {
+          "word": "it",
+          "start": 12.548,
+          "end": 12.588,
+          "score": 1.0
+        },
+        {
+          "word": "travels",
+          "start": 12.628,
+          "end": 12.928,
+          "score": 0.831
+        },
+        {
+          "word": "from",
+          "start": 12.948,
+          "end": 13.068,
+          "score": 0.776
+        },
+        {
+          "word": "one",
+          "start": 13.188,
+          "end": 13.288,
+          "score": 0.667
+        },
+        {
+          "word": "medium",
+          "start": 13.348,
+          "end": 13.669,
+          "score": 0.877
+        },
+        {
+          "word": "into",
+          "start": 13.789,
+          "end": 14.009,
+          "score": 0.79
+        },
+        {
+          "word": "another",
+          "start": 14.049,
+          "end": 14.349,
+          "score": 0.726
+        },
+        {
+          "word": "where",
+          "start": 14.509,
+          "end": 14.649,
+          "score": 0.908
+        },
+        {
+          "word": "its",
+          "start": 14.689,
+          "end": 14.769,
+          "score": 0.633
+        },
+        {
+          "word": "speed",
+          "start": 14.789,
+          "end": 15.029,
+          "score": 0.932
+        },
+        {
+          "word": "changes.",
+          "start": 15.07,
+          "end": 15.47,
+          "score": 0.881
+        }
+      ]
+    },
+    {
+      "start": 16.29,
+      "end": 23.455,
+      "text": "Our conversation did talk about this in detail, but it was a little bit too much detail, so I ended up cutting it out of the video.",
+      "words": [
+        {
+          "word": "Our",
+          "start": 16.29,
+          "end": 16.39,
+          "score": 0.833
+        },
+        {
+          "word": "conversation",
+          "start": 16.43,
+          "end": 17.091,
+          "score": 0.788
+        },
+        {
+          "word": "did",
+          "start": 17.371,
+          "end": 17.531,
+          "score": 0.889
+        },
+        {
+          "word": "talk",
+          "start": 17.571,
+          "end": 17.751,
+          "score": 0.999
+        },
+        {
+          "word": "about",
+          "start": 17.791,
+          "end": 17.992,
+          "score": 0.709
+        },
+        {
+          "word": "this",
+          "start": 18.012,
+          "end": 18.172,
+          "score": 0.758
+        },
+        {
+          "word": "in",
+          "start": 18.232,
+          "end": 18.312,
+          "score": 0.782
+        },
+        {
+          "word": "detail,",
+          "start": 18.372,
+          "end": 18.812,
+          "score": 0.776
+        },
+        {
+          "word": "but",
+          "start": 19.012,
+          "end": 19.172,
+          "score": 0.761
+        },
+        {
+          "word": "it",
+          "start": 19.312,
+          "end": 19.372,
+          "score": 0.75
+        },
+        {
+          "word": "was",
+          "start": 19.412,
+          "end": 19.513,
+          "score": 0.777
+        },
+        {
+          "word": "a",
+          "start": 19.533,
+          "end": 19.553,
+          "score": 0.999
+        },
+        {
+          "word": "little",
+          "start": 19.593,
+          "end": 19.753,
+          "score": 0.916
+        },
+        {
+          "word": "bit",
+          "start": 19.773,
+          "end": 19.913,
+          "score": 0.761
+        },
+        {
+          "word": "too",
+          "start": 19.933,
+          "end": 20.073,
+          "score": 0.761
+        },
+        {
+          "word": "much",
+          "start": 20.113,
+          "end": 20.293,
+          "score": 0.755
+        },
+        {
+          "word": "detail,",
+          "start": 20.353,
+          "end": 20.773,
+          "score": 0.785
+        },
+        {
+          "word": "so",
+          "start": 21.174,
+          "end": 21.334,
+          "score": 0.873
+        },
+        {
+          "word": "I",
+          "start": 21.554,
+          "end": 21.594,
+          "score": 0.932
+        },
+        {
+          "word": "ended",
+          "start": 21.634,
+          "end": 21.814,
+          "score": 0.249
+        },
+        {
+          "word": "up",
+          "start": 21.854,
+          "end": 21.914,
+          "score": 0.82
+        },
+        {
+          "word": "cutting",
+          "start": 21.934,
+          "end": 22.154,
+          "score": 0.924
+        },
+        {
+          "word": "it",
+          "start": 22.174,
+          "end": 22.234,
+          "score": 0.75
+        },
+        {
+          "word": "out",
+          "start": 22.274,
+          "end": 22.354,
+          "score": 0.849
+        },
+        {
+          "word": "of",
+          "start": 22.374,
+          "end": 22.415,
+          "score": 0.986
+        },
+        {
+          "word": "the",
+          "start": 22.435,
+          "end": 22.495,
+          "score": 0.846
+        },
+        {
+          "word": "video.",
+          "start": 22.535,
+          "end": 22.875,
+          "score": 0.893
+        }
+      ]
+    },
+    {
+      "start": 23.455,
+      "end": 33.222,
+      "text": "So what I want to do here is just show you a condensed version of that, because it references a pretty clever argument by Mark Levy, and it also gives a sense of completion to the Brachistochrone solution as a whole.",
+      "words": [
+        {
+          "word": "So",
+          "start": 23.455,
+          "end": 23.555,
+          "score": 0.834
+        },
+        {
+          "word": "what",
+          "start": 23.575,
+          "end": 23.655,
+          "score": 0.736
+        },
+        {
+          "word": "I",
+          "start": 23.675,
+          "end": 23.715,
+          "score": 0.496
+        },
+        {
+          "word": "want",
+          "start": 23.755,
+          "end": 23.976,
+          "score": 0.714
+        },
+        {
+          "word": "to",
+          "start": 23.996,
+          "end": 24.056,
+          "score": 0.81
+        },
+        {
+          "word": "do",
+          "start": 24.076,
+          "end": 24.116,
+          "score": 0.0
+        },
+        {
+          "word": "here",
+          "start": 24.156,
+          "end": 24.376,
+          "score": 0.608
+        },
+        {
+          "word": "is",
+          "start": 24.776,
+          "end": 24.896,
+          "score": 0.633
+        },
+        {
+          "word": "just",
+          "start": 25.036,
+          "end": 25.176,
+          "score": 0.893
+        },
+        {
+          "word": "show",
+          "start": 25.196,
+          "end": 25.357,
+          "score": 0.718
+        },
+        {
+          "word": "you",
+          "start": 25.377,
+          "end": 25.477,
+          "score": 0.781
+        },
+        {
+          "word": "a",
+          "start": 25.497,
+          "end": 25.537,
+          "score": 0.498
+        },
+        {
+          "word": "condensed",
+          "start": 25.577,
+          "end": 25.917,
+          "score": 0.738
+        },
+        {
+          "word": "version",
+          "start": 25.957,
+          "end": 26.197,
+          "score": 0.952
+        },
+        {
+          "word": "of",
+          "start": 26.237,
+          "end": 26.297,
+          "score": 0.755
+        },
+        {
+          "word": "that,",
+          "start": 26.337,
+          "end": 26.497,
+          "score": 0.927
+        },
+        {
+          "word": "because",
+          "start": 26.517,
+          "end": 26.998,
+          "score": 0.766
+        },
+        {
+          "word": "it",
+          "start": 27.018,
+          "end": 27.058,
+          "score": 0.996
+        },
+        {
+          "word": "references",
+          "start": 27.098,
+          "end": 27.478,
+          "score": 0.882
+        },
+        {
+          "word": "a",
+          "start": 27.518,
+          "end": 27.558,
+          "score": 0.505
+        },
+        {
+          "word": "pretty",
+          "start": 27.598,
+          "end": 27.818,
+          "score": 0.838
+        },
+        {
+          "word": "clever",
+          "start": 27.858,
+          "end": 28.138,
+          "score": 0.539
+        },
+        {
+          "word": "argument",
+          "start": 28.178,
+          "end": 28.519,
+          "score": 0.836
+        },
+        {
+          "word": "by",
+          "start": 28.559,
+          "end": 28.679,
+          "score": 0.826
+        },
+        {
+          "word": "Mark",
+          "start": 28.739,
+          "end": 28.919,
+          "score": 0.967
+        },
+        {
+          "word": "Levy,",
+          "start": 28.959,
+          "end": 29.239,
+          "score": 0.782
+        },
+        {
+          "word": "and",
+          "start": 29.599,
+          "end": 29.699,
+          "score": 0.714
+        },
+        {
+          "word": "it",
+          "start": 29.719,
+          "end": 29.78,
+          "score": 0.75
+        },
+        {
+          "word": "also",
+          "start": 29.82,
+          "end": 30.04,
+          "score": 0.77
+        },
+        {
+          "word": "gives",
+          "start": 30.08,
+          "end": 30.26,
+          "score": 0.68
+        },
+        {
+          "word": "a",
+          "start": 30.3,
+          "end": 30.34,
+          "score": 0.502
+        },
+        {
+          "word": "sense",
+          "start": 30.36,
+          "end": 30.56,
+          "score": 0.94
+        },
+        {
+          "word": "of",
+          "start": 30.6,
+          "end": 30.66,
+          "score": 0.75
+        },
+        {
+          "word": "completion",
+          "start": 30.9,
+          "end": 31.461,
+          "score": 0.835
+        },
+        {
+          "word": "to",
+          "start": 31.561,
+          "end": 31.641,
+          "score": 0.932
+        },
+        {
+          "word": "the",
+          "start": 31.661,
+          "end": 31.721,
+          "score": 0.995
+        },
+        {
+          "word": "Brachistochrone",
+          "start": 31.761,
+          "end": 32.441,
+          "score": 0.738
+        },
+        {
+          "word": "solution",
+          "start": 32.461,
+          "end": 32.822,
+          "score": 0.843
+        },
+        {
+          "word": "as",
+          "start": 32.862,
+          "end": 32.962,
+          "score": 0.645
+        },
+        {
+          "word": "a",
+          "start": 33.002,
+          "end": 33.022,
+          "score": 0.997
+        },
+        {
+          "word": "whole.",
+          "start": 33.062,
+          "end": 33.222,
+          "score": 0.983
+        }
+      ]
+    },
+    {
+      "start": 37.748,
+      "end": 39.83,
+      "text": " Consider when light travels from air into water.",
+      "words": [
+        {
+          "word": "Consider",
+          "start": 37.748,
+          "end": 38.068,
+          "score": 0.848
+        },
+        {
+          "word": "when",
+          "start": 38.088,
+          "end": 38.208,
+          "score": 0.906
+        },
+        {
+          "word": "light",
+          "start": 38.248,
+          "end": 38.409,
+          "score": 0.806
+        },
+        {
+          "word": "travels",
+          "start": 38.449,
+          "end": 38.729,
+          "score": 0.814
+        },
+        {
+          "word": "from",
+          "start": 38.749,
+          "end": 38.889,
+          "score": 0.638
+        },
+        {
+          "word": "air",
+          "start": 39.029,
+          "end": 39.189,
+          "score": 0.797
+        },
+        {
+          "word": "into",
+          "start": 39.329,
+          "end": 39.51,
+          "score": 0.861
+        },
+        {
+          "word": "water.",
+          "start": 39.55,
+          "end": 39.81,
+          "score": 0.893
+        }
+      ]
+    },
+    {
+      "start": 39.83,
+      "end": 44.414,
+      "text": "The speed of light is a little bit slower in water than it is in air.",
+      "words": [
+        {
+          "word": "The",
+          "start": 39.83,
+          "end": 40.671,
+          "score": 0.552
+        },
+        {
+          "word": "speed",
+          "start": 40.691,
+          "end": 40.911,
+          "score": 0.883
+        },
+        {
+          "word": "of",
+          "start": 40.931,
+          "end": 40.991,
+          "score": 0.88
+        },
+        {
+          "word": "light",
+          "start": 41.031,
+          "end": 41.231,
+          "score": 0.736
+        },
+        {
+          "word": "is",
+          "start": 41.291,
+          "end": 41.371,
+          "score": 0.669
+        },
+        {
+          "word": "a",
+          "start": 41.411,
+          "end": 41.451,
+          "score": 0.499
+        },
+        {
+          "word": "little",
+          "start": 41.491,
+          "end": 41.691,
+          "score": 0.851
+        },
+        {
+          "word": "bit",
+          "start": 41.711,
+          "end": 41.832,
+          "score": 0.51
+        },
+        {
+          "word": "slower",
+          "start": 41.892,
+          "end": 42.252,
+          "score": 0.744
+        },
+        {
+          "word": "in",
+          "start": 42.292,
+          "end": 42.372,
+          "score": 0.682
+        },
+        {
+          "word": "water",
+          "start": 42.432,
+          "end": 42.772,
+          "score": 0.714
+        },
+        {
+          "word": "than",
+          "start": 42.892,
+          "end": 43.053,
+          "score": 0.834
+        },
+        {
+          "word": "it",
+          "start": 43.093,
+          "end": 43.153,
+          "score": 0.749
+        },
+        {
+          "word": "is",
+          "start": 43.213,
+          "end": 43.293,
+          "score": 0.662
+        },
+        {
+          "word": "in",
+          "start": 43.353,
+          "end": 43.413,
+          "score": 0.526
+        },
+        {
+          "word": "air.",
+          "start": 43.553,
+          "end": 43.693,
+          "score": 0.766
+        }
+      ]
+    },
+    {
+      "start": 44.414,
+      "end": 48.237,
+      "text": "And this results in the beam of light bending as it enters the water.",
+      "words": [
+        {
+          "word": "And",
+          "start": 44.414,
+          "end": 44.494,
+          "score": 0.898
+        },
+        {
+          "word": "this",
+          "start": 44.514,
+          "end": 44.654,
+          "score": 0.846
+        },
+        {
+          "word": "results",
+          "start": 44.714,
+          "end": 44.994,
+          "score": 0.916
+        },
+        {
+          "word": "in",
+          "start": 45.034,
+          "end": 45.094,
+          "score": 0.924
+        },
+        {
+          "word": "the",
+          "start": 45.134,
+          "end": 45.194,
+          "score": 0.99
+        },
+        {
+          "word": "beam",
+          "start": 45.234,
+          "end": 45.415,
+          "score": 0.788
+        },
+        {
+          "word": "of",
+          "start": 45.455,
+          "end": 45.535,
+          "score": 0.732
+        },
+        {
+          "word": "light",
+          "start": 45.575,
+          "end": 45.775,
+          "score": 0.816
+        },
+        {
+          "word": "bending",
+          "start": 45.935,
+          "end": 46.355,
+          "score": 0.853
+        },
+        {
+          "word": "as",
+          "start": 46.496,
+          "end": 46.576,
+          "score": 0.755
+        },
+        {
+          "word": "it",
+          "start": 46.636,
+          "end": 46.696,
+          "score": 0.75
+        },
+        {
+          "word": "enters",
+          "start": 46.756,
+          "end": 46.996,
+          "score": 0.863
+        },
+        {
+          "word": "the",
+          "start": 47.056,
+          "end": 47.116,
+          "score": 0.998
+        },
+        {
+          "word": "water.",
+          "start": 47.156,
+          "end": 47.436,
+          "score": 0.743
+        }
+      ]
+    },
+    {
+      "start": 48.237,
+      "end": 50.539,
+      "text": "Why?",
+      "words": [
+        {
+          "word": "Why?",
+          "start": 48.237,
+          "end": 48.477,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "start": 50.539,
+      "end": 55.123,
+      "text": "There are many ways that you can think about this, but a pretty neat one is to use Fermat's principle.",
+      "words": [
+        {
+          "word": "There",
+          "start": 50.539,
+          "end": 50.679,
+          "score": 0.864
+        },
+        {
+          "word": "are",
+          "start": 50.719,
+          "end": 50.799,
+          "score": 0.835
+        },
+        {
+          "word": "many",
+          "start": 50.839,
+          "end": 50.979,
+          "score": 0.862
+        },
+        {
+          "word": "ways",
+          "start": 51.019,
+          "end": 51.16,
+          "score": 0.828
+        },
+        {
+          "word": "that",
+          "start": 51.2,
+          "end": 51.3,
+          "score": 0.88
+        },
+        {
+          "word": "you",
+          "start": 51.32,
+          "end": 51.38,
+          "score": 1.0
+        },
+        {
+          "word": "can",
+          "start": 51.42,
+          "end": 51.52,
+          "score": 0.997
+        },
+        {
+          "word": "think",
+          "start": 51.56,
+          "end": 51.72,
+          "score": 0.834
+        },
+        {
+          "word": "about",
+          "start": 51.76,
+          "end": 51.96,
+          "score": 0.841
+        },
+        {
+          "word": "this,",
+          "start": 52.0,
+          "end": 52.18,
+          "score": 0.847
+        },
+        {
+          "word": "but",
+          "start": 52.401,
+          "end": 52.501,
+          "score": 0.843
+        },
+        {
+          "word": "a",
+          "start": 52.521,
+          "end": 52.561,
+          "score": 0.505
+        },
+        {
+          "word": "pretty",
+          "start": 52.601,
+          "end": 52.801,
+          "score": 0.888
+        },
+        {
+          "word": "neat",
+          "start": 52.841,
+          "end": 52.981,
+          "score": 0.916
+        },
+        {
+          "word": "one",
+          "start": 53.061,
+          "end": 53.161,
+          "score": 0.694
+        },
+        {
+          "word": "is",
+          "start": 53.201,
+          "end": 53.281,
+          "score": 0.694
+        },
+        {
+          "word": "to",
+          "start": 53.321,
+          "end": 53.382,
+          "score": 0.798
+        },
+        {
+          "word": "use",
+          "start": 53.482,
+          "end": 53.642,
+          "score": 0.533
+        },
+        {
+          "word": "Fermat's",
+          "start": 53.682,
+          "end": 54.122,
+          "score": 0.77
+        },
+        {
+          "word": "principle.",
+          "start": 54.162,
+          "end": 54.583,
+          "score": 0.853
+        }
+      ]
+    },
+    {
+      "start": 55.123,
+      "end": 64.211,
+      "text": "We talked about this in detail in the Brachistochrone video, but in short, it tells you that if light goes from some point to another, it will always do it in the fastest way possible.",
+      "words": [
+        {
+          "word": "We",
+          "start": 55.123,
+          "end": 55.203,
+          "score": 0.804
+        },
+        {
+          "word": "talked",
+          "start": 55.243,
+          "end": 55.443,
+          "score": 0.907
+        },
+        {
+          "word": "about",
+          "start": 55.463,
+          "end": 55.623,
+          "score": 0.736
+        },
+        {
+          "word": "this",
+          "start": 55.643,
+          "end": 55.764,
+          "score": 0.917
+        },
+        {
+          "word": "in",
+          "start": 55.804,
+          "end": 55.864,
+          "score": 0.73
+        },
+        {
+          "word": "detail",
+          "start": 55.904,
+          "end": 56.284,
+          "score": 0.781
+        },
+        {
+          "word": "in",
+          "start": 56.304,
+          "end": 56.364,
+          "score": 0.876
+        },
+        {
+          "word": "the",
+          "start": 56.384,
+          "end": 56.464,
+          "score": 0.826
+        },
+        {
+          "word": "Brachistochrone",
+          "start": 56.504,
+          "end": 57.105,
+          "score": 0.595
+        },
+        {
+          "word": "video,",
+          "start": 57.125,
+          "end": 57.505,
+          "score": 0.821
+        },
+        {
+          "word": "but",
+          "start": 57.865,
+          "end": 57.985,
+          "score": 0.911
+        },
+        {
+          "word": "in",
+          "start": 58.106,
+          "end": 58.186,
+          "score": 0.678
+        },
+        {
+          "word": "short,",
+          "start": 58.226,
+          "end": 58.446,
+          "score": 0.684
+        },
+        {
+          "word": "it",
+          "start": 58.666,
+          "end": 58.726,
+          "score": 0.75
+        },
+        {
+          "word": "tells",
+          "start": 58.766,
+          "end": 58.926,
+          "score": 0.948
+        },
+        {
+          "word": "you",
+          "start": 58.966,
+          "end": 59.046,
+          "score": 0.923
+        },
+        {
+          "word": "that",
+          "start": 59.066,
+          "end": 59.166,
+          "score": 0.894
+        },
+        {
+          "word": "if",
+          "start": 59.267,
+          "end": 59.347,
+          "score": 0.833
+        },
+        {
+          "word": "light",
+          "start": 59.447,
+          "end": 59.647,
+          "score": 0.851
+        },
+        {
+          "word": "goes",
+          "start": 59.727,
+          "end": 59.967,
+          "score": 0.752
+        },
+        {
+          "word": "from",
+          "start": 60.007,
+          "end": 60.147,
+          "score": 0.836
+        },
+        {
+          "word": "some",
+          "start": 60.207,
+          "end": 60.388,
+          "score": 0.82
+        },
+        {
+          "word": "point",
+          "start": 60.448,
+          "end": 60.688,
+          "score": 0.684
+        },
+        {
+          "word": "to",
+          "start": 60.748,
+          "end": 60.888,
+          "score": 0.581
+        },
+        {
+          "word": "another,",
+          "start": 60.928,
+          "end": 61.268,
+          "score": 0.779
+        },
+        {
+          "word": "it",
+          "start": 61.769,
+          "end": 61.829,
+          "score": 0.747
+        },
+        {
+          "word": "will",
+          "start": 61.849,
+          "end": 62.009,
+          "score": 0.878
+        },
+        {
+          "word": "always",
+          "start": 62.089,
+          "end": 62.389,
+          "score": 0.714
+        },
+        {
+          "word": "do",
+          "start": 62.449,
+          "end": 62.589,
+          "score": 0.871
+        },
+        {
+          "word": "it",
+          "start": 62.629,
+          "end": 62.67,
+          "score": 0.994
+        },
+        {
+          "word": "in",
+          "start": 62.75,
+          "end": 62.83,
+          "score": 0.754
+        },
+        {
+          "word": "the",
+          "start": 62.87,
+          "end": 62.95,
+          "score": 0.839
+        },
+        {
+          "word": "fastest",
+          "start": 63.05,
+          "end": 63.51,
+          "score": 0.868
+        },
+        {
+          "word": "way",
+          "start": 63.59,
+          "end": 63.75,
+          "score": 0.876
+        },
+        {
+          "word": "possible.",
+          "start": 63.81,
+          "end": 64.211,
+          "score": 0.988
+        }
+      ]
+    },
+    {
+      "start": 66.417,
+      "end": 73.149,
+      "text": " Consider some point A in its trajectory in the air and some point B on its trajectory in the water.",
+      "words": [
+        {
+          "word": "Consider",
+          "start": 66.417,
+          "end": 66.758,
+          "score": 0.934
+        },
+        {
+          "word": "some",
+          "start": 66.798,
+          "end": 66.918,
+          "score": 0.969
+        },
+        {
+          "word": "point",
+          "start": 66.958,
+          "end": 67.178,
+          "score": 0.736
+        },
+        {
+          "word": "A",
+          "start": 67.399,
+          "end": 67.519,
+          "score": 0.696
+        },
+        {
+          "word": "in",
+          "start": 67.719,
+          "end": 67.779,
+          "score": 0.758
+        },
+        {
+          "word": "its",
+          "start": 67.82,
+          "end": 67.92,
+          "score": 0.817
+        },
+        {
+          "word": "trajectory",
+          "start": 67.96,
+          "end": 68.401,
+          "score": 0.894
+        },
+        {
+          "word": "in",
+          "start": 68.441,
+          "end": 68.501,
+          "score": 0.869
+        },
+        {
+          "word": "the",
+          "start": 68.541,
+          "end": 68.621,
+          "score": 0.833
+        },
+        {
+          "word": "air",
+          "start": 68.761,
+          "end": 68.921,
+          "score": 0.677
+        },
+        {
+          "word": "and",
+          "start": 69.382,
+          "end": 69.462,
+          "score": 0.847
+        },
+        {
+          "word": "some",
+          "start": 69.482,
+          "end": 69.623,
+          "score": 0.894
+        },
+        {
+          "word": "point",
+          "start": 69.663,
+          "end": 69.883,
+          "score": 0.84
+        },
+        {
+          "word": "B",
+          "start": 69.943,
+          "end": 70.224,
+          "score": 0.787
+        },
+        {
+          "word": "on",
+          "start": 70.404,
+          "end": 70.464,
+          "score": 0.754
+        },
+        {
+          "word": "its",
+          "start": 70.504,
+          "end": 70.604,
+          "score": 0.806
+        },
+        {
+          "word": "trajectory",
+          "start": 70.624,
+          "end": 71.105,
+          "score": 0.874
+        },
+        {
+          "word": "in",
+          "start": 71.125,
+          "end": 71.205,
+          "score": 0.682
+        },
+        {
+          "word": "the",
+          "start": 71.225,
+          "end": 71.306,
+          "score": 0.836
+        },
+        {
+          "word": "water.",
+          "start": 71.346,
+          "end": 71.606,
+          "score": 0.796
+        }
+      ]
+    },
+    {
+      "start": 73.149,
+      "end": 76.555,
+      "text": "First you might think that the straight line between them is the fastest path.",
+      "words": [
+        {
+          "word": "First",
+          "start": 73.149,
+          "end": 73.369,
+          "score": 0.809
+        },
+        {
+          "word": "you",
+          "start": 73.409,
+          "end": 73.509,
+          "score": 0.837
+        },
+        {
+          "word": "might",
+          "start": 73.529,
+          "end": 73.69,
+          "score": 0.783
+        },
+        {
+          "word": "think",
+          "start": 73.71,
+          "end": 73.91,
+          "score": 0.819
+        },
+        {
+          "word": "that",
+          "start": 73.95,
+          "end": 74.11,
+          "score": 0.822
+        },
+        {
+          "word": "the",
+          "start": 74.251,
+          "end": 74.351,
+          "score": 0.881
+        },
+        {
+          "word": "straight",
+          "start": 74.411,
+          "end": 74.631,
+          "score": 0.82
+        },
+        {
+          "word": "line",
+          "start": 74.671,
+          "end": 74.852,
+          "score": 0.995
+        },
+        {
+          "word": "between",
+          "start": 74.892,
+          "end": 75.192,
+          "score": 0.901
+        },
+        {
+          "word": "them",
+          "start": 75.232,
+          "end": 75.393,
+          "score": 0.829
+        },
+        {
+          "word": "is",
+          "start": 75.613,
+          "end": 75.693,
+          "score": 0.582
+        },
+        {
+          "word": "the",
+          "start": 75.733,
+          "end": 75.813,
+          "score": 0.836
+        },
+        {
+          "word": "fastest",
+          "start": 75.854,
+          "end": 76.274,
+          "score": 0.839
+        },
+        {
+          "word": "path.",
+          "start": 76.294,
+          "end": 76.555,
+          "score": 0.972
+        }
+      ]
+    },
+    {
+      "start": 76.889,
+      "end": 83.735,
+      "text": " The only problem with that strategy though, even though it's the shortest path, is that you may be spending a long time in the water.",
+      "words": [
+        {
+          "word": "The",
+          "start": 76.889,
+          "end": 76.969,
+          "score": 0.836
+        },
+        {
+          "word": "only",
+          "start": 76.989,
+          "end": 77.169,
+          "score": 0.714
+        },
+        {
+          "word": "problem",
+          "start": 77.209,
+          "end": 77.49,
+          "score": 0.939
+        },
+        {
+          "word": "with",
+          "start": 77.51,
+          "end": 77.61,
+          "score": 0.447
+        },
+        {
+          "word": "that",
+          "start": 77.65,
+          "end": 77.81,
+          "score": 0.857
+        },
+        {
+          "word": "strategy",
+          "start": 77.85,
+          "end": 78.33,
+          "score": 0.839
+        },
+        {
+          "word": "though,",
+          "start": 78.37,
+          "end": 78.531,
+          "score": 0.919
+        },
+        {
+          "word": "even",
+          "start": 78.591,
+          "end": 78.731,
+          "score": 0.87
+        },
+        {
+          "word": "though",
+          "start": 78.751,
+          "end": 78.891,
+          "score": 0.934
+        },
+        {
+          "word": "it's",
+          "start": 78.911,
+          "end": 79.011,
+          "score": 0.871
+        },
+        {
+          "word": "the",
+          "start": 79.031,
+          "end": 79.111,
+          "score": 0.829
+        },
+        {
+          "word": "shortest",
+          "start": 79.171,
+          "end": 79.511,
+          "score": 0.84
+        },
+        {
+          "word": "path,",
+          "start": 79.571,
+          "end": 79.952,
+          "score": 0.794
+        },
+        {
+          "word": "is",
+          "start": 80.192,
+          "end": 80.272,
+          "score": 0.705
+        },
+        {
+          "word": "that",
+          "start": 80.332,
+          "end": 80.512,
+          "score": 0.783
+        },
+        {
+          "word": "you",
+          "start": 80.993,
+          "end": 81.093,
+          "score": 0.728
+        },
+        {
+          "word": "may",
+          "start": 81.113,
+          "end": 81.233,
+          "score": 0.996
+        },
+        {
+          "word": "be",
+          "start": 81.273,
+          "end": 81.373,
+          "score": 0.925
+        },
+        {
+          "word": "spending",
+          "start": 81.433,
+          "end": 81.753,
+          "score": 0.829
+        },
+        {
+          "word": "a",
+          "start": 81.793,
+          "end": 81.833,
+          "score": 0.548
+        },
+        {
+          "word": "long",
+          "start": 81.874,
+          "end": 82.114,
+          "score": 0.674
+        },
+        {
+          "word": "time",
+          "start": 82.174,
+          "end": 82.474,
+          "score": 0.696
+        },
+        {
+          "word": "in",
+          "start": 82.674,
+          "end": 82.754,
+          "score": 0.825
+        },
+        {
+          "word": "the",
+          "start": 82.794,
+          "end": 82.874,
+          "score": 0.832
+        },
+        {
+          "word": "water.",
+          "start": 82.914,
+          "end": 83.255,
+          "score": 0.691
+        }
+      ]
+    },
+    {
+      "start": 83.735,
+      "end": 90.321,
+      "text": "Light is slower in the water, so the path can become faster if we shift things to favor spending more time in the air.",
+      "words": [
+        {
+          "word": "Light",
+          "start": 83.735,
+          "end": 83.915,
+          "score": 0.811
+        },
+        {
+          "word": "is",
+          "start": 84.015,
+          "end": 84.116,
+          "score": 0.738
+        },
+        {
+          "word": "slower",
+          "start": 84.196,
+          "end": 84.476,
+          "score": 0.871
+        },
+        {
+          "word": "in",
+          "start": 84.496,
+          "end": 84.556,
+          "score": 0.766
+        },
+        {
+          "word": "the",
+          "start": 84.596,
+          "end": 84.656,
+          "score": 0.998
+        },
+        {
+          "word": "water,",
+          "start": 84.696,
+          "end": 84.956,
+          "score": 0.79
+        },
+        {
+          "word": "so",
+          "start": 85.177,
+          "end": 85.337,
+          "score": 0.806
+        },
+        {
+          "word": "the",
+          "start": 85.517,
+          "end": 85.597,
+          "score": 0.838
+        },
+        {
+          "word": "path",
+          "start": 85.617,
+          "end": 85.817,
+          "score": 0.808
+        },
+        {
+          "word": "can",
+          "start": 85.837,
+          "end": 85.957,
+          "score": 0.891
+        },
+        {
+          "word": "become",
+          "start": 85.977,
+          "end": 86.237,
+          "score": 0.806
+        },
+        {
+          "word": "faster",
+          "start": 86.278,
+          "end": 86.698,
+          "score": 0.744
+        },
+        {
+          "word": "if",
+          "start": 86.918,
+          "end": 86.978,
+          "score": 1.0
+        },
+        {
+          "word": "we",
+          "start": 87.018,
+          "end": 87.158,
+          "score": 0.868
+        },
+        {
+          "word": "shift",
+          "start": 87.218,
+          "end": 87.479,
+          "score": 0.686
+        },
+        {
+          "word": "things",
+          "start": 87.519,
+          "end": 87.759,
+          "score": 0.856
+        },
+        {
+          "word": "to",
+          "start": 87.819,
+          "end": 87.939,
+          "score": 0.828
+        },
+        {
+          "word": "favor",
+          "start": 88.039,
+          "end": 88.399,
+          "score": 0.834
+        },
+        {
+          "word": "spending",
+          "start": 88.419,
+          "end": 88.8,
+          "score": 0.845
+        },
+        {
+          "word": "more",
+          "start": 88.84,
+          "end": 89.02,
+          "score": 0.702
+        },
+        {
+          "word": "time",
+          "start": 89.06,
+          "end": 89.26,
+          "score": 0.828
+        },
+        {
+          "word": "in",
+          "start": 89.3,
+          "end": 89.36,
+          "score": 0.757
+        },
+        {
+          "word": "the",
+          "start": 89.4,
+          "end": 89.48,
+          "score": 0.833
+        },
+        {
+          "word": "air.",
+          "start": 89.621,
+          "end": 89.741,
+          "score": 0.834
+        }
+      ]
+    },
+    {
+      "start": 90.321,
+      "end": 94.965,
+      "text": "You might even try to minimize the time spent in the water by shifting it all the way to the right.",
+      "words": [
+        {
+          "word": "You",
+          "start": 90.321,
+          "end": 90.401,
+          "score": 0.856
+        },
+        {
+          "word": "might",
+          "start": 90.441,
+          "end": 90.581,
+          "score": 0.8
+        },
+        {
+          "word": "even",
+          "start": 90.641,
+          "end": 90.802,
+          "score": 0.634
+        },
+        {
+          "word": "try",
+          "start": 90.822,
+          "end": 90.962,
+          "score": 0.744
+        },
+        {
+          "word": "to",
+          "start": 90.982,
+          "end": 91.062,
+          "score": 0.5
+        },
+        {
+          "word": "minimize",
+          "start": 91.162,
+          "end": 91.642,
+          "score": 0.918
+        },
+        {
+          "word": "the",
+          "start": 91.682,
+          "end": 91.762,
+          "score": 0.836
+        },
+        {
+          "word": "time",
+          "start": 91.802,
+          "end": 92.043,
+          "score": 0.899
+        },
+        {
+          "word": "spent",
+          "start": 92.103,
+          "end": 92.343,
+          "score": 0.781
+        },
+        {
+          "word": "in",
+          "start": 92.363,
+          "end": 92.423,
+          "score": 0.768
+        },
+        {
+          "word": "the",
+          "start": 92.463,
+          "end": 92.523,
+          "score": 0.998
+        },
+        {
+          "word": "water",
+          "start": 92.563,
+          "end": 92.823,
+          "score": 0.806
+        },
+        {
+          "word": "by",
+          "start": 92.863,
+          "end": 92.984,
+          "score": 0.782
+        },
+        {
+          "word": "shifting",
+          "start": 93.044,
+          "end": 93.344,
+          "score": 0.809
+        },
+        {
+          "word": "it",
+          "start": 93.384,
+          "end": 93.444,
+          "score": 0.744
+        },
+        {
+          "word": "all",
+          "start": 93.524,
+          "end": 93.644,
+          "score": 0.839
+        },
+        {
+          "word": "the",
+          "start": 93.664,
+          "end": 93.744,
+          "score": 0.833
+        },
+        {
+          "word": "way",
+          "start": 93.784,
+          "end": 93.884,
+          "score": 0.779
+        },
+        {
+          "word": "to",
+          "start": 93.924,
+          "end": 94.004,
+          "score": 0.68
+        },
+        {
+          "word": "the",
+          "start": 94.025,
+          "end": 94.105,
+          "score": 0.828
+        },
+        {
+          "word": "right.",
+          "start": 94.145,
+          "end": 94.345,
+          "score": 0.789
+        }
+      ]
+    },
+    {
+      "start": 94.965,
+      "end": 97.788,
+      "text": "However, it's not actually the best thing to do either.",
+      "words": [
+        {
+          "word": "However,",
+          "start": 94.965,
+          "end": 95.266,
+          "score": 0.909
+        },
+        {
+          "word": "it's",
+          "start": 95.286,
+          "end": 95.606,
+          "score": 0.638
+        },
+        {
+          "word": "not",
+          "start": 95.646,
+          "end": 95.746,
+          "score": 0.981
+        },
+        {
+          "word": "actually",
+          "start": 95.806,
+          "end": 96.066,
+          "score": 0.812
+        },
+        {
+          "word": "the",
+          "start": 96.106,
+          "end": 96.186,
+          "score": 0.832
+        },
+        {
+          "word": "best",
+          "start": 96.206,
+          "end": 96.387,
+          "score": 0.703
+        },
+        {
+          "word": "thing",
+          "start": 96.427,
+          "end": 96.567,
+          "score": 0.887
+        },
+        {
+          "word": "to",
+          "start": 96.607,
+          "end": 96.687,
+          "score": 0.749
+        },
+        {
+          "word": "do",
+          "start": 96.707,
+          "end": 96.827,
+          "score": 0.93
+        },
+        {
+          "word": "either.",
+          "start": 96.907,
+          "end": 97.127,
+          "score": 0.807
+        }
+      ]
+    },
+    {
+      "start": 97.788,
+      "end": 102.072,
+      "text": "As with the Brachistochrone problem, we find ourselves trying to balance these two competing factors.",
+      "words": [
+        {
+          "word": "As",
+          "start": 97.788,
+          "end": 97.888,
+          "score": 0.781
+        },
+        {
+          "word": "with",
+          "start": 97.928,
+          "end": 98.048,
+          "score": 0.935
+        },
+        {
+          "word": "the",
+          "start": 98.068,
+          "end": 98.128,
+          "score": 0.988
+        },
+        {
+          "word": "Brachistochrone",
+          "start": 98.168,
+          "end": 98.809,
+          "score": 0.758
+        },
+        {
+          "word": "problem,",
+          "start": 98.829,
+          "end": 99.189,
+          "score": 0.834
+        },
+        {
+          "word": "we",
+          "start": 99.389,
+          "end": 99.489,
+          "score": 0.832
+        },
+        {
+          "word": "find",
+          "start": 99.529,
+          "end": 99.69,
+          "score": 0.867
+        },
+        {
+          "word": "ourselves",
+          "start": 99.73,
+          "end": 100.01,
+          "score": 0.878
+        },
+        {
+          "word": "trying",
+          "start": 100.07,
+          "end": 100.27,
+          "score": 0.832
+        },
+        {
+          "word": "to",
+          "start": 100.31,
+          "end": 100.37,
+          "score": 0.75
+        },
+        {
+          "word": "balance",
+          "start": 100.45,
+          "end": 100.811,
+          "score": 0.895
+        },
+        {
+          "word": "these",
+          "start": 100.871,
+          "end": 101.011,
+          "score": 0.801
+        },
+        {
+          "word": "two",
+          "start": 101.031,
+          "end": 101.171,
+          "score": 0.794
+        },
+        {
+          "word": "competing",
+          "start": 101.231,
+          "end": 101.611,
+          "score": 0.854
+        },
+        {
+          "word": "factors.",
+          "start": 101.651,
+          "end": 102.072,
+          "score": 0.859
+        }
+      ]
+    },
+    {
+      "start": 102.748,
+      "end": 105.79,
+      "text": " It's a problem that you can write down with geometry.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 102.748,
+          "end": 102.848,
+          "score": 0.916
+        },
+        {
+          "word": "a",
+          "start": 102.908,
+          "end": 102.928,
+          "score": 0.993
+        },
+        {
+          "word": "problem",
+          "start": 102.968,
+          "end": 103.208,
+          "score": 0.977
+        },
+        {
+          "word": "that",
+          "start": 103.248,
+          "end": 103.328,
+          "score": 0.88
+        },
+        {
+          "word": "you",
+          "start": 103.348,
+          "end": 103.449,
+          "score": 0.797
+        },
+        {
+          "word": "can",
+          "start": 103.469,
+          "end": 103.609,
+          "score": 0.874
+        },
+        {
+          "word": "write",
+          "start": 103.669,
+          "end": 103.869,
+          "score": 0.816
+        },
+        {
+          "word": "down",
+          "start": 103.909,
+          "end": 104.189,
+          "score": 0.847
+        },
+        {
+          "word": "with",
+          "start": 104.269,
+          "end": 104.509,
+          "score": 0.664
+        },
+        {
+          "word": "geometry.",
+          "start": 104.669,
+          "end": 105.45,
+          "score": 0.898
+        }
+      ]
+    },
+    {
+      "start": 105.79,
+      "end": 114.537,
+      "text": "And if this was a calculus class, we would set up the appropriate equation with a single variable x and find where its derivative is zero.",
+      "words": [
+        {
+          "word": "And",
+          "start": 105.79,
+          "end": 105.91,
+          "score": 0.873
+        },
+        {
+          "word": "if",
+          "start": 106.03,
+          "end": 106.09,
+          "score": 0.998
+        },
+        {
+          "word": "this",
+          "start": 106.13,
+          "end": 106.251,
+          "score": 0.965
+        },
+        {
+          "word": "was",
+          "start": 106.291,
+          "end": 106.391,
+          "score": 0.88
+        },
+        {
+          "word": "a",
+          "start": 106.431,
+          "end": 106.471,
+          "score": 0.502
+        },
+        {
+          "word": "calculus",
+          "start": 106.511,
+          "end": 106.911,
+          "score": 0.792
+        },
+        {
+          "word": "class,",
+          "start": 106.931,
+          "end": 107.211,
+          "score": 0.772
+        },
+        {
+          "word": "we",
+          "start": 107.331,
+          "end": 107.431,
+          "score": 0.895
+        },
+        {
+          "word": "would",
+          "start": 107.451,
+          "end": 107.612,
+          "score": 0.855
+        },
+        {
+          "word": "set",
+          "start": 107.752,
+          "end": 107.912,
+          "score": 0.995
+        },
+        {
+          "word": "up",
+          "start": 107.972,
+          "end": 108.052,
+          "score": 0.833
+        },
+        {
+          "word": "the",
+          "start": 108.092,
+          "end": 108.172,
+          "score": 0.836
+        },
+        {
+          "word": "appropriate",
+          "start": 108.212,
+          "end": 108.652,
+          "score": 0.905
+        },
+        {
+          "word": "equation",
+          "start": 108.692,
+          "end": 109.073,
+          "score": 0.898
+        },
+        {
+          "word": "with",
+          "start": 109.133,
+          "end": 109.313,
+          "score": 0.674
+        },
+        {
+          "word": "a",
+          "start": 109.433,
+          "end": 109.473,
+          "score": 0.67
+        },
+        {
+          "word": "single",
+          "start": 109.513,
+          "end": 109.753,
+          "score": 0.838
+        },
+        {
+          "word": "variable",
+          "start": 109.793,
+          "end": 110.193,
+          "score": 0.879
+        },
+        {
+          "word": "x",
+          "start": 110.414,
+          "end": 110.534,
+          "score": 0.998
+        },
+        {
+          "word": "and",
+          "start": 110.934,
+          "end": 111.014,
+          "score": 0.838
+        },
+        {
+          "word": "find",
+          "start": 111.094,
+          "end": 111.334,
+          "score": 0.818
+        },
+        {
+          "word": "where",
+          "start": 111.354,
+          "end": 111.494,
+          "score": 0.873
+        },
+        {
+          "word": "its",
+          "start": 111.534,
+          "end": 111.634,
+          "score": 0.815
+        },
+        {
+          "word": "derivative",
+          "start": 111.674,
+          "end": 112.155,
+          "score": 0.774
+        },
+        {
+          "word": "is",
+          "start": 112.215,
+          "end": 112.255,
+          "score": 0.134
+        },
+        {
+          "word": "zero.",
+          "start": 112.295,
+          "end": 112.635,
+          "score": 0.853
+        }
+      ]
+    },
+    {
+      "start": 114.537,
+      "end": 118.82,
+      "text": "But we've got something better than calculus, a Mark-Levy solution.",
+      "words": [
+        {
+          "word": "But",
+          "start": 114.537,
+          "end": 114.617,
+          "score": 0.837
+        },
+        {
+          "word": "we've",
+          "start": 114.637,
+          "end": 114.797,
+          "score": 0.89
+        },
+        {
+          "word": "got",
+          "start": 114.837,
+          "end": 114.957,
+          "score": 0.93
+        },
+        {
+          "word": "something",
+          "start": 114.997,
+          "end": 115.277,
+          "score": 0.822
+        },
+        {
+          "word": "better",
+          "start": 115.317,
+          "end": 115.517,
+          "score": 0.912
+        },
+        {
+          "word": "than",
+          "start": 115.537,
+          "end": 115.657,
+          "score": 0.808
+        },
+        {
+          "word": "calculus,",
+          "start": 115.697,
+          "end": 116.178,
+          "score": 0.773
+        },
+        {
+          "word": "a",
+          "start": 116.678,
+          "end": 116.738,
+          "score": 0.668
+        },
+        {
+          "word": "Mark-Levy",
+          "start": 116.758,
+          "end": 117.279,
+          "score": 0.892
+        },
+        {
+          "word": "solution.",
+          "start": 117.319,
+          "end": 117.779,
+          "score": 0.843
+        }
+      ]
+    },
+    {
+      "start": 118.82,
+      "end": 123.083,
+      "text": "He recognized that optics is not the only time that nature seeks out a minimum.",
+      "words": [
+        {
+          "word": "He",
+          "start": 118.82,
+          "end": 118.9,
+          "score": 0.696
+        },
+        {
+          "word": "recognized",
+          "start": 118.94,
+          "end": 119.42,
+          "score": 0.888
+        },
+        {
+          "word": "that",
+          "start": 119.44,
+          "end": 119.56,
+          "score": 0.789
+        },
+        {
+          "word": "optics",
+          "start": 119.72,
+          "end": 120.0,
+          "score": 0.616
+        },
+        {
+          "word": "is",
+          "start": 120.081,
+          "end": 120.161,
+          "score": 0.703
+        },
+        {
+          "word": "not",
+          "start": 120.201,
+          "end": 120.341,
+          "score": 0.781
+        },
+        {
+          "word": "the",
+          "start": 120.381,
+          "end": 120.481,
+          "score": 0.851
+        },
+        {
+          "word": "only",
+          "start": 120.581,
+          "end": 120.781,
+          "score": 0.676
+        },
+        {
+          "word": "time",
+          "start": 120.841,
+          "end": 121.121,
+          "score": 0.922
+        },
+        {
+          "word": "that",
+          "start": 121.181,
+          "end": 121.321,
+          "score": 0.793
+        },
+        {
+          "word": "nature",
+          "start": 121.361,
+          "end": 121.642,
+          "score": 0.814
+        },
+        {
+          "word": "seeks",
+          "start": 121.682,
+          "end": 121.882,
+          "score": 0.916
+        },
+        {
+          "word": "out",
+          "start": 121.962,
+          "end": 122.062,
+          "score": 0.883
+        },
+        {
+          "word": "a",
+          "start": 122.082,
+          "end": 122.122,
+          "score": 0.671
+        },
+        {
+          "word": "minimum.",
+          "start": 122.162,
+          "end": 122.542,
+          "score": 0.825
+        }
+      ]
+    },
+    {
+      "start": 123.083,
+      "end": 125.124,
+      "text": "It does so with energy as well.",
+      "words": [
+        {
+          "word": "It",
+          "start": 123.083,
+          "end": 123.143,
+          "score": 0.958
+        },
+        {
+          "word": "does",
+          "start": 123.163,
+          "end": 123.303,
+          "score": 0.806
+        },
+        {
+          "word": "so",
+          "start": 123.323,
+          "end": 123.423,
+          "score": 0.994
+        },
+        {
+          "word": "with",
+          "start": 123.443,
+          "end": 123.583,
+          "score": 0.635
+        },
+        {
+          "word": "energy",
+          "start": 123.663,
+          "end": 123.983,
+          "score": 0.857
+        },
+        {
+          "word": "as",
+          "start": 124.023,
+          "end": 124.103,
+          "score": 0.506
+        },
+        {
+          "word": "well.",
+          "start": 124.143,
+          "end": 124.364,
+          "score": 0.813
+        }
+      ]
+    },
+    {
+      "start": 125.124,
+      "end": 128.927,
+      "text": "Any mechanical setup will stabilize when the potential energy is at a minimum.",
+      "words": [
+        {
+          "word": "Any",
+          "start": 125.124,
+          "end": 125.264,
+          "score": 0.74
+        },
+        {
+          "word": "mechanical",
+          "start": 125.304,
+          "end": 125.745,
+          "score": 0.763
+        },
+        {
+          "word": "setup",
+          "start": 125.785,
+          "end": 126.045,
+          "score": 0.801
+        },
+        {
+          "word": "will",
+          "start": 126.085,
+          "end": 126.285,
+          "score": 0.819
+        },
+        {
+          "word": "stabilize",
+          "start": 126.365,
+          "end": 126.985,
+          "score": 0.785
+        },
+        {
+          "word": "when",
+          "start": 127.086,
+          "end": 127.206,
+          "score": 0.958
+        },
+        {
+          "word": "the",
+          "start": 127.226,
+          "end": 127.306,
+          "score": 0.829
+        },
+        {
+          "word": "potential",
+          "start": 127.346,
+          "end": 127.766,
+          "score": 0.884
+        },
+        {
+          "word": "energy",
+          "start": 127.826,
+          "end": 128.206,
+          "score": 0.779
+        },
+        {
+          "word": "is",
+          "start": 128.306,
+          "end": 128.386,
+          "score": 0.668
+        },
+        {
+          "word": "at",
+          "start": 128.427,
+          "end": 128.507,
+          "score": 0.712
+        },
+        {
+          "word": "a",
+          "start": 128.547,
+          "end": 128.567,
+          "score": 0.813
+        },
+        {
+          "word": "minimum.",
+          "start": 128.607,
+          "end": 128.927,
+          "score": 0.872
+        }
+      ]
+    },
+    {
+      "start": 130.379,
+      "end": 141.428,
+      "text": " So for this light-into-media problem, he imagines putting a rod on the border between the air and the water, and placing a ring on the rod, which is free to slide left and right.",
+      "words": [
+        {
+          "word": "So",
+          "start": 130.379,
+          "end": 130.519,
+          "score": 0.926
+        },
+        {
+          "word": "for",
+          "start": 130.559,
+          "end": 130.679,
+          "score": 0.822
+        },
+        {
+          "word": "this",
+          "start": 130.719,
+          "end": 130.879,
+          "score": 0.85
+        },
+        {
+          "word": "light-into-media",
+          "start": 131.06,
+          "end": 132.02,
+          "score": 0.919
+        },
+        {
+          "word": "problem,",
+          "start": 132.06,
+          "end": 132.461,
+          "score": 0.841
+        },
+        {
+          "word": "he",
+          "start": 133.041,
+          "end": 133.121,
+          "score": 0.889
+        },
+        {
+          "word": "imagines",
+          "start": 133.141,
+          "end": 133.501,
+          "score": 0.779
+        },
+        {
+          "word": "putting",
+          "start": 133.561,
+          "end": 133.802,
+          "score": 0.856
+        },
+        {
+          "word": "a",
+          "start": 133.842,
+          "end": 133.882,
+          "score": 0.501
+        },
+        {
+          "word": "rod",
+          "start": 133.982,
+          "end": 134.322,
+          "score": 0.988
+        },
+        {
+          "word": "on",
+          "start": 134.462,
+          "end": 134.542,
+          "score": 0.832
+        },
+        {
+          "word": "the",
+          "start": 134.562,
+          "end": 134.662,
+          "score": 0.753
+        },
+        {
+          "word": "border",
+          "start": 134.702,
+          "end": 135.043,
+          "score": 0.76
+        },
+        {
+          "word": "between",
+          "start": 135.103,
+          "end": 135.523,
+          "score": 0.633
+        },
+        {
+          "word": "the",
+          "start": 135.563,
+          "end": 135.663,
+          "score": 0.667
+        },
+        {
+          "word": "air",
+          "start": 135.763,
+          "end": 135.863,
+          "score": 0.844
+        },
+        {
+          "word": "and",
+          "start": 135.903,
+          "end": 135.983,
+          "score": 0.782
+        },
+        {
+          "word": "the",
+          "start": 136.003,
+          "end": 136.063,
+          "score": 0.972
+        },
+        {
+          "word": "water,",
+          "start": 136.123,
+          "end": 136.424,
+          "score": 0.767
+        },
+        {
+          "word": "and",
+          "start": 137.004,
+          "end": 137.084,
+          "score": 0.873
+        },
+        {
+          "word": "placing",
+          "start": 137.124,
+          "end": 137.424,
+          "score": 0.802
+        },
+        {
+          "word": "a",
+          "start": 137.485,
+          "end": 137.545,
+          "score": 0.338
+        },
+        {
+          "word": "ring",
+          "start": 137.645,
+          "end": 137.905,
+          "score": 0.687
+        },
+        {
+          "word": "on",
+          "start": 137.985,
+          "end": 138.045,
+          "score": 0.768
+        },
+        {
+          "word": "the",
+          "start": 138.085,
+          "end": 138.165,
+          "score": 0.833
+        },
+        {
+          "word": "rod,",
+          "start": 138.205,
+          "end": 138.485,
+          "score": 0.827
+        },
+        {
+          "word": "which",
+          "start": 138.665,
+          "end": 138.786,
+          "score": 0.917
+        },
+        {
+          "word": "is",
+          "start": 138.866,
+          "end": 138.926,
+          "score": 0.649
+        },
+        {
+          "word": "free",
+          "start": 138.946,
+          "end": 139.106,
+          "score": 0.882
+        },
+        {
+          "word": "to",
+          "start": 139.146,
+          "end": 139.206,
+          "score": 0.998
+        },
+        {
+          "word": "slide",
+          "start": 139.246,
+          "end": 139.546,
+          "score": 0.938
+        },
+        {
+          "word": "left",
+          "start": 139.606,
+          "end": 139.746,
+          "score": 0.956
+        },
+        {
+          "word": "and",
+          "start": 139.826,
+          "end": 139.886,
+          "score": 0.337
+        },
+        {
+          "word": "right.",
+          "start": 139.906,
+          "end": 140.107,
+          "score": 0.742
+        }
+      ]
+    },
+    {
+      "start": 141.428,
+      "end": 152.976,
+      "text": "Now, attach a spring from the point A to the ring, and a second spring between the ring and point B. You can think of the layout of the springs as a potential path that light could take between A and B.",
+      "words": [
+        {
+          "word": "Now,",
+          "start": 141.428,
+          "end": 141.568,
+          "score": 0.994
+        },
+        {
+          "word": "attach",
+          "start": 141.848,
+          "end": 142.228,
+          "score": 0.91
+        },
+        {
+          "word": "a",
+          "start": 142.268,
+          "end": 142.368,
+          "score": 0.674
+        },
+        {
+          "word": "spring",
+          "start": 142.408,
+          "end": 142.729,
+          "score": 0.807
+        },
+        {
+          "word": "from",
+          "start": 142.789,
+          "end": 142.929,
+          "score": 0.772
+        },
+        {
+          "word": "the",
+          "start": 142.969,
+          "end": 143.069,
+          "score": 0.738
+        },
+        {
+          "word": "point",
+          "start": 143.109,
+          "end": 143.349,
+          "score": 0.862
+        },
+        {
+          "word": "A",
+          "start": 143.489,
+          "end": 143.609,
+          "score": 0.831
+        },
+        {
+          "word": "to",
+          "start": 143.809,
+          "end": 143.889,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "start": 143.929,
+          "end": 144.01,
+          "score": 0.969
+        },
+        {
+          "word": "ring,",
+          "start": 144.09,
+          "end": 144.37,
+          "score": 0.598
+        },
+        {
+          "word": "and",
+          "start": 144.89,
+          "end": 144.99,
+          "score": 0.757
+        },
+        {
+          "word": "a",
+          "start": 145.01,
+          "end": 145.05,
+          "score": 0.497
+        },
+        {
+          "word": "second",
+          "start": 145.09,
+          "end": 145.391,
+          "score": 0.766
+        },
+        {
+          "word": "spring",
+          "start": 145.451,
+          "end": 145.751,
+          "score": 0.781
+        },
+        {
+          "word": "between",
+          "start": 145.811,
+          "end": 146.131,
+          "score": 0.708
+        },
+        {
+          "word": "the",
+          "start": 146.151,
+          "end": 146.251,
+          "score": 0.757
+        },
+        {
+          "word": "ring",
+          "start": 146.331,
+          "end": 146.591,
+          "score": 0.636
+        },
+        {
+          "word": "and",
+          "start": 146.952,
+          "end": 147.052,
+          "score": 0.7
+        },
+        {
+          "word": "point",
+          "start": 147.092,
+          "end": 147.332,
+          "score": 0.882
+        },
+        {
+          "word": "B.",
+          "start": 147.392,
+          "end": 147.652,
+          "score": 0.799
+        },
+        {
+          "word": "You",
+          "start": 148.453,
+          "end": 148.533,
+          "score": 0.78
+        },
+        {
+          "word": "can",
+          "start": 148.553,
+          "end": 148.653,
+          "score": 0.996
+        },
+        {
+          "word": "think",
+          "start": 148.673,
+          "end": 148.833,
+          "score": 0.833
+        },
+        {
+          "word": "of",
+          "start": 148.853,
+          "end": 148.913,
+          "score": 0.75
+        },
+        {
+          "word": "the",
+          "start": 148.953,
+          "end": 149.033,
+          "score": 0.831
+        },
+        {
+          "word": "layout",
+          "start": 149.053,
+          "end": 149.354,
+          "score": 0.871
+        },
+        {
+          "word": "of",
+          "start": 149.374,
+          "end": 149.434,
+          "score": 0.759
+        },
+        {
+          "word": "the",
+          "start": 149.474,
+          "end": 149.554,
+          "score": 0.829
+        },
+        {
+          "word": "springs",
+          "start": 149.594,
+          "end": 150.034,
+          "score": 0.626
+        },
+        {
+          "word": "as",
+          "start": 150.474,
+          "end": 150.555,
+          "score": 0.67
+        },
+        {
+          "word": "a",
+          "start": 150.595,
+          "end": 150.615,
+          "score": 0.998
+        },
+        {
+          "word": "potential",
+          "start": 150.655,
+          "end": 151.055,
+          "score": 0.92
+        },
+        {
+          "word": "path",
+          "start": 151.115,
+          "end": 151.435,
+          "score": 0.849
+        },
+        {
+          "word": "that",
+          "start": 151.495,
+          "end": 151.615,
+          "score": 0.895
+        },
+        {
+          "word": "light",
+          "start": 151.655,
+          "end": 151.835,
+          "score": 0.78
+        },
+        {
+          "word": "could",
+          "start": 151.856,
+          "end": 151.996,
+          "score": 0.83
+        },
+        {
+          "word": "take",
+          "start": 152.016,
+          "end": 152.236,
+          "score": 0.632
+        },
+        {
+          "word": "between",
+          "start": 152.316,
+          "end": 152.616,
+          "score": 0.911
+        },
+        {
+          "word": "A",
+          "start": 152.716,
+          "end": 152.796,
+          "score": 0.985
+        },
+        {
+          "word": "and",
+          "start": 152.856,
+          "end": 152.936,
+          "score": 0.837
+        },
+        {
+          "word": "B.",
+          "start": 152.956,
+          "end": 152.976,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "start": 154.298,
+      "end": 166.996,
+      "text": " To finagle things so that the potential energy in the springs equals the amount of time that light would take on that path, you just need to make sure that each spring has a constant tension which is inversely proportional to the speed of light in its medium.",
+      "words": [
+        {
+          "word": "To",
+          "start": 154.298,
+          "end": 154.478,
+          "score": 0.874
+        },
+        {
+          "word": "finagle",
+          "start": 154.578,
+          "end": 154.979,
+          "score": 0.779
+        },
+        {
+          "word": "things",
+          "start": 154.999,
+          "end": 155.219,
+          "score": 0.831
+        },
+        {
+          "word": "so",
+          "start": 155.239,
+          "end": 155.339,
+          "score": 0.853
+        },
+        {
+          "word": "that",
+          "start": 155.379,
+          "end": 155.479,
+          "score": 0.873
+        },
+        {
+          "word": "the",
+          "start": 155.519,
+          "end": 155.58,
+          "score": 0.986
+        },
+        {
+          "word": "potential",
+          "start": 155.62,
+          "end": 156.06,
+          "score": 0.932
+        },
+        {
+          "word": "energy",
+          "start": 156.1,
+          "end": 156.381,
+          "score": 0.754
+        },
+        {
+          "word": "in",
+          "start": 156.401,
+          "end": 156.461,
+          "score": 0.914
+        },
+        {
+          "word": "the",
+          "start": 156.501,
+          "end": 156.561,
+          "score": 0.996
+        },
+        {
+          "word": "springs",
+          "start": 156.601,
+          "end": 156.921,
+          "score": 0.865
+        },
+        {
+          "word": "equals",
+          "start": 157.142,
+          "end": 157.442,
+          "score": 0.777
+        },
+        {
+          "word": "the",
+          "start": 157.482,
+          "end": 157.562,
+          "score": 0.838
+        },
+        {
+          "word": "amount",
+          "start": 157.602,
+          "end": 157.823,
+          "score": 0.838
+        },
+        {
+          "word": "of",
+          "start": 157.843,
+          "end": 157.903,
+          "score": 0.766
+        },
+        {
+          "word": "time",
+          "start": 157.963,
+          "end": 158.243,
+          "score": 0.754
+        },
+        {
+          "word": "that",
+          "start": 158.303,
+          "end": 158.424,
+          "score": 0.858
+        },
+        {
+          "word": "light",
+          "start": 158.484,
+          "end": 158.624,
+          "score": 0.799
+        },
+        {
+          "word": "would",
+          "start": 158.664,
+          "end": 158.804,
+          "score": 0.91
+        },
+        {
+          "word": "take",
+          "start": 158.844,
+          "end": 159.024,
+          "score": 0.838
+        },
+        {
+          "word": "on",
+          "start": 159.105,
+          "end": 159.165,
+          "score": 0.763
+        },
+        {
+          "word": "that",
+          "start": 159.205,
+          "end": 159.345,
+          "score": 0.72
+        },
+        {
+          "word": "path,",
+          "start": 159.405,
+          "end": 159.725,
+          "score": 0.948
+        },
+        {
+          "word": "you",
+          "start": 160.246,
+          "end": 160.346,
+          "score": 0.828
+        },
+        {
+          "word": "just",
+          "start": 160.366,
+          "end": 160.507,
+          "score": 0.828
+        },
+        {
+          "word": "need",
+          "start": 160.527,
+          "end": 160.687,
+          "score": 0.91
+        },
+        {
+          "word": "to",
+          "start": 160.707,
+          "end": 160.787,
+          "score": 0.505
+        },
+        {
+          "word": "make",
+          "start": 160.807,
+          "end": 160.927,
+          "score": 0.913
+        },
+        {
+          "word": "sure",
+          "start": 160.967,
+          "end": 161.067,
+          "score": 0.994
+        },
+        {
+          "word": "that",
+          "start": 161.107,
+          "end": 161.208,
+          "score": 0.876
+        },
+        {
+          "word": "each",
+          "start": 161.328,
+          "end": 161.448,
+          "score": 0.9
+        },
+        {
+          "word": "spring",
+          "start": 161.528,
+          "end": 161.808,
+          "score": 0.861
+        },
+        {
+          "word": "has",
+          "start": 161.848,
+          "end": 161.989,
+          "score": 0.695
+        },
+        {
+          "word": "a",
+          "start": 162.049,
+          "end": 162.069,
+          "score": 0.999
+        },
+        {
+          "word": "constant",
+          "start": 162.149,
+          "end": 162.589,
+          "score": 0.805
+        },
+        {
+          "word": "tension",
+          "start": 162.63,
+          "end": 163.05,
+          "score": 0.863
+        },
+        {
+          "word": "which",
+          "start": 163.531,
+          "end": 163.671,
+          "score": 0.9
+        },
+        {
+          "word": "is",
+          "start": 163.751,
+          "end": 163.831,
+          "score": 0.667
+        },
+        {
+          "word": "inversely",
+          "start": 164.072,
+          "end": 164.592,
+          "score": 0.953
+        },
+        {
+          "word": "proportional",
+          "start": 164.652,
+          "end": 165.213,
+          "score": 0.822
+        },
+        {
+          "word": "to",
+          "start": 165.253,
+          "end": 165.333,
+          "score": 0.948
+        },
+        {
+          "word": "the",
+          "start": 165.373,
+          "end": 165.454,
+          "score": 0.794
+        },
+        {
+          "word": "speed",
+          "start": 165.494,
+          "end": 165.734,
+          "score": 0.975
+        },
+        {
+          "word": "of",
+          "start": 165.774,
+          "end": 165.834,
+          "score": 0.88
+        },
+        {
+          "word": "light",
+          "start": 165.914,
+          "end": 166.094,
+          "score": 0.866
+        },
+        {
+          "word": "in",
+          "start": 166.295,
+          "end": 166.375,
+          "score": 0.915
+        },
+        {
+          "word": "its",
+          "start": 166.455,
+          "end": 166.575,
+          "score": 0.6
+        },
+        {
+          "word": "medium.",
+          "start": 166.655,
+          "end": 166.996,
+          "score": 0.981
+        }
+      ]
+    },
+    {
+      "start": 169.827,
+      "end": 174.31,
+      "text": " The only problem with this is that constant tension springs don't actually exist.",
+      "words": [
+        {
+          "word": "The",
+          "start": 169.827,
+          "end": 169.887,
+          "score": 0.988
+        },
+        {
+          "word": "only",
+          "start": 169.907,
+          "end": 170.047,
+          "score": 0.873
+        },
+        {
+          "word": "problem",
+          "start": 170.087,
+          "end": 170.347,
+          "score": 0.709
+        },
+        {
+          "word": "with",
+          "start": 170.367,
+          "end": 170.447,
+          "score": 0.134
+        },
+        {
+          "word": "this",
+          "start": 170.487,
+          "end": 170.688,
+          "score": 0.863
+        },
+        {
+          "word": "is",
+          "start": 170.908,
+          "end": 170.988,
+          "score": 0.764
+        },
+        {
+          "word": "that",
+          "start": 171.008,
+          "end": 171.168,
+          "score": 0.733
+        },
+        {
+          "word": "constant",
+          "start": 171.388,
+          "end": 171.768,
+          "score": 0.825
+        },
+        {
+          "word": "tension",
+          "start": 171.788,
+          "end": 172.108,
+          "score": 0.721
+        },
+        {
+          "word": "springs",
+          "start": 172.148,
+          "end": 172.449,
+          "score": 0.86
+        },
+        {
+          "word": "don't",
+          "start": 172.509,
+          "end": 172.789,
+          "score": 0.741
+        },
+        {
+          "word": "actually",
+          "start": 172.929,
+          "end": 173.349,
+          "score": 0.875
+        },
+        {
+          "word": "exist.",
+          "start": 173.489,
+          "end": 173.869,
+          "score": 0.842
+        }
+      ]
+    },
+    {
+      "start": 174.31,
+      "end": 175.01,
+      "text": "That's right.",
+      "words": [
+        {
+          "word": "That's",
+          "start": 174.31,
+          "end": 174.49,
+          "score": 0.906
+        },
+        {
+          "word": "right.",
+          "start": 174.53,
+          "end": 174.69,
+          "score": 0.745
+        }
+      ]
+    },
+    {
+      "start": 175.01,
+      "end": 181.934,
+      "text": "They're unphysical springs, but they're still the aspect of the system wanting to minimize its total energy.",
+      "words": [
+        {
+          "word": "They're",
+          "start": 175.01,
+          "end": 175.21,
+          "score": 0.783
+        },
+        {
+          "word": "unphysical",
+          "start": 175.25,
+          "end": 175.811,
+          "score": 0.769
+        },
+        {
+          "word": "springs,",
+          "start": 175.871,
+          "end": 176.191,
+          "score": 0.797
+        },
+        {
+          "word": "but",
+          "start": 176.231,
+          "end": 176.351,
+          "score": 0.833
+        },
+        {
+          "word": "they're",
+          "start": 176.391,
+          "end": 176.611,
+          "score": 0.61
+        },
+        {
+          "word": "still",
+          "start": 176.651,
+          "end": 176.911,
+          "score": 0.816
+        },
+        {
+          "word": "the",
+          "start": 177.512,
+          "end": 177.612,
+          "score": 0.858
+        },
+        {
+          "word": "aspect",
+          "start": 177.712,
+          "end": 178.092,
+          "score": 0.719
+        },
+        {
+          "word": "of",
+          "start": 178.152,
+          "end": 178.232,
+          "score": 0.75
+        },
+        {
+          "word": "the",
+          "start": 178.292,
+          "end": 178.352,
+          "score": 0.986
+        },
+        {
+          "word": "system",
+          "start": 178.412,
+          "end": 178.732,
+          "score": 0.863
+        },
+        {
+          "word": "wanting",
+          "start": 178.772,
+          "end": 179.093,
+          "score": 0.858
+        },
+        {
+          "word": "to",
+          "start": 179.113,
+          "end": 179.213,
+          "score": 0.707
+        },
+        {
+          "word": "minimize",
+          "start": 179.253,
+          "end": 179.753,
+          "score": 0.833
+        },
+        {
+          "word": "its",
+          "start": 179.813,
+          "end": 179.933,
+          "score": 0.577
+        },
+        {
+          "word": "total",
+          "start": 179.973,
+          "end": 180.353,
+          "score": 0.758
+        },
+        {
+          "word": "energy.",
+          "start": 180.594,
+          "end": 180.974,
+          "score": 0.788
+        }
+      ]
+    },
+    {
+      "start": 181.934,
+      "end": 186.957,
+      "text": "That physical principle will hold even though these springs don't exist in the world as we know it.",
+      "words": [
+        {
+          "word": "That",
+          "start": 181.934,
+          "end": 182.074,
+          "score": 0.828
+        },
+        {
+          "word": "physical",
+          "start": 182.134,
+          "end": 182.515,
+          "score": 0.859
+        },
+        {
+          "word": "principle",
+          "start": 182.555,
+          "end": 182.955,
+          "score": 0.772
+        },
+        {
+          "word": "will",
+          "start": 182.995,
+          "end": 183.155,
+          "score": 0.824
+        },
+        {
+          "word": "hold",
+          "start": 183.195,
+          "end": 183.375,
+          "score": 0.667
+        },
+        {
+          "word": "even",
+          "start": 183.455,
+          "end": 183.595,
+          "score": 0.882
+        },
+        {
+          "word": "though",
+          "start": 183.635,
+          "end": 183.795,
+          "score": 0.838
+        },
+        {
+          "word": "these",
+          "start": 183.835,
+          "end": 184.016,
+          "score": 0.806
+        },
+        {
+          "word": "springs",
+          "start": 184.336,
+          "end": 184.656,
+          "score": 0.681
+        },
+        {
+          "word": "don't",
+          "start": 184.696,
+          "end": 184.916,
+          "score": 0.758
+        },
+        {
+          "word": "exist",
+          "start": 184.976,
+          "end": 185.316,
+          "score": 0.958
+        },
+        {
+          "word": "in",
+          "start": 185.937,
+          "end": 185.997,
+          "score": 0.764
+        },
+        {
+          "word": "the",
+          "start": 186.037,
+          "end": 186.097,
+          "score": 1.0
+        },
+        {
+          "word": "world",
+          "start": 186.137,
+          "end": 186.377,
+          "score": 0.702
+        },
+        {
+          "word": "as",
+          "start": 186.437,
+          "end": 186.537,
+          "score": 0.831
+        },
+        {
+          "word": "we",
+          "start": 186.577,
+          "end": 186.677,
+          "score": 0.867
+        },
+        {
+          "word": "know",
+          "start": 186.737,
+          "end": 186.897,
+          "score": 0.794
+        },
+        {
+          "word": "it.",
+          "start": 186.917,
+          "end": 186.957,
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "start": 188.138,
+      "end": 194.122,
+      "text": " The reason springs make the problem simpler, though, is that we can find the stable state just by balancing forces.",
+      "words": [
+        {
+          "word": "The",
+          "start": 188.138,
+          "end": 188.218,
+          "score": 0.857
+        },
+        {
+          "word": "reason",
+          "start": 188.238,
+          "end": 188.498,
+          "score": 0.74
+        },
+        {
+          "word": "springs",
+          "start": 188.658,
+          "end": 188.939,
+          "score": 0.821
+        },
+        {
+          "word": "make",
+          "start": 188.999,
+          "end": 189.179,
+          "score": 0.891
+        },
+        {
+          "word": "the",
+          "start": 189.219,
+          "end": 189.319,
+          "score": 0.874
+        },
+        {
+          "word": "problem",
+          "start": 189.359,
+          "end": 189.659,
+          "score": 0.765
+        },
+        {
+          "word": "simpler,",
+          "start": 189.699,
+          "end": 190.039,
+          "score": 0.802
+        },
+        {
+          "word": "though,",
+          "start": 190.079,
+          "end": 190.279,
+          "score": 0.8
+        },
+        {
+          "word": "is",
+          "start": 190.74,
+          "end": 190.8,
+          "score": 0.772
+        },
+        {
+          "word": "that",
+          "start": 190.82,
+          "end": 190.92,
+          "score": 0.914
+        },
+        {
+          "word": "we",
+          "start": 190.94,
+          "end": 191.02,
+          "score": 0.822
+        },
+        {
+          "word": "can",
+          "start": 191.06,
+          "end": 191.16,
+          "score": 0.679
+        },
+        {
+          "word": "find",
+          "start": 191.22,
+          "end": 191.44,
+          "score": 0.778
+        },
+        {
+          "word": "the",
+          "start": 191.48,
+          "end": 191.56,
+          "score": 0.829
+        },
+        {
+          "word": "stable",
+          "start": 191.58,
+          "end": 191.88,
+          "score": 0.846
+        },
+        {
+          "word": "state",
+          "start": 191.92,
+          "end": 192.201,
+          "score": 0.728
+        },
+        {
+          "word": "just",
+          "start": 192.341,
+          "end": 192.501,
+          "score": 0.857
+        },
+        {
+          "word": "by",
+          "start": 192.521,
+          "end": 192.641,
+          "score": 0.828
+        },
+        {
+          "word": "balancing",
+          "start": 192.701,
+          "end": 193.101,
+          "score": 0.869
+        },
+        {
+          "word": "forces.",
+          "start": 193.141,
+          "end": 193.501,
+          "score": 0.781
+        }
+      ]
+    },
+    {
+      "start": 194.122,
+      "end": 200.866,
+      "text": "The leftward component of the force in the top spring has to cancel out with the rightward component in the force of the bottom spring.",
+      "words": [
+        {
+          "word": "The",
+          "start": 194.122,
+          "end": 194.202,
+          "score": 0.973
+        },
+        {
+          "word": "leftward",
+          "start": 194.242,
+          "end": 194.702,
+          "score": 0.724
+        },
+        {
+          "word": "component",
+          "start": 194.762,
+          "end": 195.162,
+          "score": 0.914
+        },
+        {
+          "word": "of",
+          "start": 195.202,
+          "end": 195.283,
+          "score": 0.816
+        },
+        {
+          "word": "the",
+          "start": 195.303,
+          "end": 195.383,
+          "score": 0.831
+        },
+        {
+          "word": "force",
+          "start": 195.423,
+          "end": 195.643,
+          "score": 0.932
+        },
+        {
+          "word": "in",
+          "start": 195.683,
+          "end": 195.763,
+          "score": 0.741
+        },
+        {
+          "word": "the",
+          "start": 195.783,
+          "end": 195.843,
+          "score": 0.997
+        },
+        {
+          "word": "top",
+          "start": 195.883,
+          "end": 196.083,
+          "score": 0.999
+        },
+        {
+          "word": "spring",
+          "start": 196.123,
+          "end": 196.403,
+          "score": 0.901
+        },
+        {
+          "word": "has",
+          "start": 196.783,
+          "end": 196.924,
+          "score": 0.856
+        },
+        {
+          "word": "to",
+          "start": 196.964,
+          "end": 197.044,
+          "score": 0.844
+        },
+        {
+          "word": "cancel",
+          "start": 197.084,
+          "end": 197.404,
+          "score": 0.852
+        },
+        {
+          "word": "out",
+          "start": 197.444,
+          "end": 197.544,
+          "score": 0.947
+        },
+        {
+          "word": "with",
+          "start": 197.584,
+          "end": 197.704,
+          "score": 0.75
+        },
+        {
+          "word": "the",
+          "start": 197.724,
+          "end": 197.804,
+          "score": 0.818
+        },
+        {
+          "word": "rightward",
+          "start": 197.864,
+          "end": 198.224,
+          "score": 0.709
+        },
+        {
+          "word": "component",
+          "start": 198.264,
+          "end": 198.705,
+          "score": 0.833
+        },
+        {
+          "word": "in",
+          "start": 198.825,
+          "end": 198.905,
+          "score": 0.814
+        },
+        {
+          "word": "the",
+          "start": 198.925,
+          "end": 199.005,
+          "score": 0.832
+        },
+        {
+          "word": "force",
+          "start": 199.045,
+          "end": 199.265,
+          "score": 0.862
+        },
+        {
+          "word": "of",
+          "start": 199.305,
+          "end": 199.365,
+          "score": 0.746
+        },
+        {
+          "word": "the",
+          "start": 199.385,
+          "end": 199.465,
+          "score": 0.828
+        },
+        {
+          "word": "bottom",
+          "start": 199.505,
+          "end": 199.805,
+          "score": 0.923
+        },
+        {
+          "word": "spring.",
+          "start": 199.845,
+          "end": 200.126,
+          "score": 0.865
+        }
+      ]
+    },
+    {
+      "start": 200.866,
+      "end": 209.912,
+      "text": "In this case, the horizontal component in each spring is just the total force times the sine of the angle that that spring makes with the vertical.",
+      "words": [
+        {
+          "word": "In",
+          "start": 200.866,
+          "end": 200.926,
+          "score": 0.996
+        },
+        {
+          "word": "this",
+          "start": 200.946,
+          "end": 201.086,
+          "score": 0.71
+        },
+        {
+          "word": "case,",
+          "start": 201.106,
+          "end": 201.346,
+          "score": 0.896
+        },
+        {
+          "word": "the",
+          "start": 201.807,
+          "end": 201.907,
+          "score": 0.809
+        },
+        {
+          "word": "horizontal",
+          "start": 201.947,
+          "end": 202.427,
+          "score": 0.763
+        },
+        {
+          "word": "component",
+          "start": 202.467,
+          "end": 202.867,
+          "score": 0.929
+        },
+        {
+          "word": "in",
+          "start": 202.907,
+          "end": 202.967,
+          "score": 0.791
+        },
+        {
+          "word": "each",
+          "start": 203.027,
+          "end": 203.167,
+          "score": 0.861
+        },
+        {
+          "word": "spring",
+          "start": 203.227,
+          "end": 203.568,
+          "score": 0.718
+        },
+        {
+          "word": "is",
+          "start": 204.028,
+          "end": 204.108,
+          "score": 0.668
+        },
+        {
+          "word": "just",
+          "start": 204.128,
+          "end": 204.308,
+          "score": 0.822
+        },
+        {
+          "word": "the",
+          "start": 204.348,
+          "end": 204.428,
+          "score": 0.875
+        },
+        {
+          "word": "total",
+          "start": 204.468,
+          "end": 204.748,
+          "score": 0.839
+        },
+        {
+          "word": "force",
+          "start": 204.788,
+          "end": 205.069,
+          "score": 0.762
+        },
+        {
+          "word": "times",
+          "start": 205.309,
+          "end": 205.529,
+          "score": 0.751
+        },
+        {
+          "word": "the",
+          "start": 205.569,
+          "end": 205.669,
+          "score": 0.83
+        },
+        {
+          "word": "sine",
+          "start": 205.729,
+          "end": 206.089,
+          "score": 0.511
+        },
+        {
+          "word": "of",
+          "start": 206.129,
+          "end": 206.189,
+          "score": 0.75
+        },
+        {
+          "word": "the",
+          "start": 206.229,
+          "end": 206.329,
+          "score": 0.739
+        },
+        {
+          "word": "angle",
+          "start": 206.469,
+          "end": 206.77,
+          "score": 0.694
+        },
+        {
+          "word": "that",
+          "start": 206.91,
+          "end": 207.03,
+          "score": 0.847
+        },
+        {
+          "word": "that",
+          "start": 207.05,
+          "end": 207.21,
+          "score": 0.762
+        },
+        {
+          "word": "spring",
+          "start": 207.25,
+          "end": 207.51,
+          "score": 0.751
+        },
+        {
+          "word": "makes",
+          "start": 207.55,
+          "end": 207.75,
+          "score": 0.857
+        },
+        {
+          "word": "with",
+          "start": 207.79,
+          "end": 207.93,
+          "score": 0.947
+        },
+        {
+          "word": "the",
+          "start": 207.95,
+          "end": 208.03,
+          "score": 0.832
+        },
+        {
+          "word": "vertical.",
+          "start": 208.07,
+          "end": 208.451,
+          "score": 0.894
+        }
+      ]
+    },
+    {
+      "start": 209.912,
+      "end": 215.255,
+      "text": "And from that, out pops this thing called Snell's Law, which many of us learned in our first physics class.",
+      "words": [
+        {
+          "word": "And",
+          "start": 209.912,
+          "end": 209.992,
+          "score": 0.861
+        },
+        {
+          "word": "from",
+          "start": 210.032,
+          "end": 210.192,
+          "score": 0.818
+        },
+        {
+          "word": "that,",
+          "start": 210.252,
+          "end": 210.512,
+          "score": 0.833
+        },
+        {
+          "word": "out",
+          "start": 211.052,
+          "end": 211.172,
+          "score": 0.884
+        },
+        {
+          "word": "pops",
+          "start": 211.232,
+          "end": 211.553,
+          "score": 0.861
+        },
+        {
+          "word": "this",
+          "start": 211.593,
+          "end": 211.733,
+          "score": 0.628
+        },
+        {
+          "word": "thing",
+          "start": 211.773,
+          "end": 211.973,
+          "score": 0.916
+        },
+        {
+          "word": "called",
+          "start": 211.993,
+          "end": 212.233,
+          "score": 0.805
+        },
+        {
+          "word": "Snell's",
+          "start": 212.313,
+          "end": 212.653,
+          "score": 0.774
+        },
+        {
+          "word": "Law,",
+          "start": 212.733,
+          "end": 212.953,
+          "score": 0.993
+        },
+        {
+          "word": "which",
+          "start": 212.993,
+          "end": 213.154,
+          "score": 0.808
+        },
+        {
+          "word": "many",
+          "start": 213.214,
+          "end": 213.454,
+          "score": 0.855
+        },
+        {
+          "word": "of",
+          "start": 213.474,
+          "end": 213.554,
+          "score": 0.668
+        },
+        {
+          "word": "us",
+          "start": 213.634,
+          "end": 213.714,
+          "score": 0.817
+        },
+        {
+          "word": "learned",
+          "start": 213.794,
+          "end": 214.014,
+          "score": 0.815
+        },
+        {
+          "word": "in",
+          "start": 214.034,
+          "end": 214.094,
+          "score": 0.776
+        },
+        {
+          "word": "our",
+          "start": 214.154,
+          "end": 214.254,
+          "score": 0.672
+        },
+        {
+          "word": "first",
+          "start": 214.314,
+          "end": 214.534,
+          "score": 0.851
+        },
+        {
+          "word": "physics",
+          "start": 214.594,
+          "end": 214.935,
+          "score": 0.878
+        },
+        {
+          "word": "class.",
+          "start": 214.975,
+          "end": 215.255,
+          "score": 0.946
+        }
+      ]
+    },
+    {
+      "start": 216.192,
+      "end": 229.629,
+      "text": " Snell's law says that sine of theta divided by the speed of light stays constant when light travels from one medium to another, where theta is the angle that that beam of light makes with a line perpendicular to the interface between the two media.",
+      "words": [
+        {
+          "word": "Snell's",
+          "start": 216.192,
+          "end": 216.452,
+          "score": 0.704
+        },
+        {
+          "word": "law",
+          "start": 216.492,
+          "end": 216.693,
+          "score": 0.901
+        },
+        {
+          "word": "says",
+          "start": 216.733,
+          "end": 216.933,
+          "score": 0.84
+        },
+        {
+          "word": "that",
+          "start": 216.973,
+          "end": 217.133,
+          "score": 0.872
+        },
+        {
+          "word": "sine",
+          "start": 217.394,
+          "end": 217.634,
+          "score": 0.801
+        },
+        {
+          "word": "of",
+          "start": 217.674,
+          "end": 217.734,
+          "score": 0.824
+        },
+        {
+          "word": "theta",
+          "start": 217.774,
+          "end": 218.094,
+          "score": 0.938
+        },
+        {
+          "word": "divided",
+          "start": 218.255,
+          "end": 218.635,
+          "score": 0.879
+        },
+        {
+          "word": "by",
+          "start": 218.675,
+          "end": 218.775,
+          "score": 0.827
+        },
+        {
+          "word": "the",
+          "start": 218.815,
+          "end": 218.875,
+          "score": 0.99
+        },
+        {
+          "word": "speed",
+          "start": 218.936,
+          "end": 219.156,
+          "score": 0.965
+        },
+        {
+          "word": "of",
+          "start": 219.196,
+          "end": 219.256,
+          "score": 0.75
+        },
+        {
+          "word": "light",
+          "start": 219.316,
+          "end": 219.556,
+          "score": 0.684
+        },
+        {
+          "word": "stays",
+          "start": 219.957,
+          "end": 220.257,
+          "score": 0.951
+        },
+        {
+          "word": "constant",
+          "start": 220.337,
+          "end": 220.818,
+          "score": 0.845
+        },
+        {
+          "word": "when",
+          "start": 220.898,
+          "end": 221.018,
+          "score": 1.0
+        },
+        {
+          "word": "light",
+          "start": 221.058,
+          "end": 221.219,
+          "score": 0.706
+        },
+        {
+          "word": "travels",
+          "start": 221.259,
+          "end": 221.539,
+          "score": 0.795
+        },
+        {
+          "word": "from",
+          "start": 221.579,
+          "end": 221.699,
+          "score": 0.97
+        },
+        {
+          "word": "one",
+          "start": 221.799,
+          "end": 221.879,
+          "score": 0.981
+        },
+        {
+          "word": "medium",
+          "start": 221.939,
+          "end": 222.18,
+          "score": 0.997
+        },
+        {
+          "word": "to",
+          "start": 222.24,
+          "end": 222.34,
+          "score": 0.733
+        },
+        {
+          "word": "another,",
+          "start": 222.4,
+          "end": 222.68,
+          "score": 0.785
+        },
+        {
+          "word": "where",
+          "start": 223.061,
+          "end": 223.281,
+          "score": 0.81
+        },
+        {
+          "word": "theta",
+          "start": 223.461,
+          "end": 223.782,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "start": 223.862,
+          "end": 223.922,
+          "score": 0.912
+        },
+        {
+          "word": "the",
+          "start": 223.962,
+          "end": 224.062,
+          "score": 0.73
+        },
+        {
+          "word": "angle",
+          "start": 224.202,
+          "end": 224.443,
+          "score": 0.707
+        },
+        {
+          "word": "that",
+          "start": 224.463,
+          "end": 224.583,
+          "score": 0.881
+        },
+        {
+          "word": "that",
+          "start": 224.623,
+          "end": 224.743,
+          "score": 0.992
+        },
+        {
+          "word": "beam",
+          "start": 224.783,
+          "end": 224.963,
+          "score": 0.804
+        },
+        {
+          "word": "of",
+          "start": 225.003,
+          "end": 225.043,
+          "score": 1.0
+        },
+        {
+          "word": "light",
+          "start": 225.083,
+          "end": 225.264,
+          "score": 0.72
+        },
+        {
+          "word": "makes",
+          "start": 225.324,
+          "end": 225.564,
+          "score": 0.953
+        },
+        {
+          "word": "with",
+          "start": 225.905,
+          "end": 226.045,
+          "score": 0.788
+        },
+        {
+          "word": "a",
+          "start": 226.105,
+          "end": 226.125,
+          "score": 0.995
+        },
+        {
+          "word": "line",
+          "start": 226.185,
+          "end": 226.425,
+          "score": 0.837
+        },
+        {
+          "word": "perpendicular",
+          "start": 226.525,
+          "end": 227.246,
+          "score": 0.865
+        },
+        {
+          "word": "to",
+          "start": 227.266,
+          "end": 227.366,
+          "score": 0.59
+        },
+        {
+          "word": "the",
+          "start": 227.386,
+          "end": 227.467,
+          "score": 0.833
+        },
+        {
+          "word": "interface",
+          "start": 227.547,
+          "end": 227.987,
+          "score": 0.909
+        },
+        {
+          "word": "between",
+          "start": 228.027,
+          "end": 228.308,
+          "score": 0.892
+        },
+        {
+          "word": "the",
+          "start": 228.328,
+          "end": 228.388,
+          "score": 0.961
+        },
+        {
+          "word": "two",
+          "start": 228.428,
+          "end": 228.568,
+          "score": 0.948
+        },
+        {
+          "word": "media.",
+          "start": 228.628,
+          "end": 228.968,
+          "score": 0.893
+        }
+      ]
+    },
+    {
+      "start": 229.629,
+      "end": 231.532,
+      "text": "So there you go, no calculus necessary.",
+      "words": [
+        {
+          "word": "So",
+          "start": 229.629,
+          "end": 229.729,
+          "score": 0.911
+        },
+        {
+          "word": "there",
+          "start": 229.749,
+          "end": 229.89,
+          "score": 0.831
+        },
+        {
+          "word": "you",
+          "start": 229.93,
+          "end": 230.01,
+          "score": 0.884
+        },
+        {
+          "word": "go,",
+          "start": 230.05,
+          "end": 230.19,
+          "score": 0.698
+        },
+        {
+          "word": "no",
+          "start": 230.45,
+          "end": 230.571,
+          "score": 0.941
+        },
+        {
+          "word": "calculus",
+          "start": 230.611,
+          "end": 231.031,
+          "score": 0.798
+        },
+        {
+          "word": "necessary.",
+          "start": 231.071,
+          "end": 231.532,
+          "score": 0.96
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "So",
+      "start": 4.062,
+      "end": 4.202,
+      "score": 0.855
+    },
+    {
+      "word": "in",
+      "start": 4.442,
+      "end": 4.502,
+      "score": 0.925
+    },
+    {
+      "word": "my",
+      "start": 4.522,
+      "end": 4.622,
+      "score": 0.861
+    },
+    {
+      "word": "video",
+      "start": 4.642,
+      "end": 4.863,
+      "score": 0.548
+    },
+    {
+      "word": "with",
+      "start": 4.883,
+      "end": 5.003,
+      "score": 0.861
+    },
+    {
+      "word": "Steve",
+      "start": 5.043,
+      "end": 5.243,
+      "score": 0.828
+    },
+    {
+      "word": "Strogatz",
+      "start": 5.263,
+      "end": 5.683,
+      "score": 0.782
+    },
+    {
+      "word": "about",
+      "start": 5.723,
+      "end": 5.903,
+      "score": 0.66
+    },
+    {
+      "word": "the",
+      "start": 5.923,
+      "end": 5.983,
+      "score": 0.996
+    },
+    {
+      "word": "Brachistochrone,",
+      "start": 6.023,
+      "end": 6.764,
+      "score": 0.702
+    },
+    {
+      "word": "we",
+      "start": 7.164,
+      "end": 7.284,
+      "score": 0.834
+    },
+    {
+      "word": "referenced",
+      "start": 7.304,
+      "end": 7.624,
+      "score": 0.719
+    },
+    {
+      "word": "this",
+      "start": 7.664,
+      "end": 7.765,
+      "score": 0.824
+    },
+    {
+      "word": "thing",
+      "start": 7.805,
+      "end": 7.985,
+      "score": 0.903
+    },
+    {
+      "word": "called",
+      "start": 8.025,
+      "end": 8.225,
+      "score": 0.917
+    },
+    {
+      "word": "Snell's",
+      "start": 8.285,
+      "end": 8.605,
+      "score": 0.73
+    },
+    {
+      "word": "Law.",
+      "start": 8.665,
+      "end": 8.945,
+      "score": 0.926
+    },
+    {
+      "word": "It's",
+      "start": 9.426,
+      "end": 9.546,
+      "score": 0.665
+    },
+    {
+      "word": "the",
+      "start": 9.586,
+      "end": 9.726,
+      "score": 0.914
+    },
+    {
+      "word": "principle",
+      "start": 9.826,
+      "end": 10.226,
+      "score": 0.758
+    },
+    {
+      "word": "in",
+      "start": 10.266,
+      "end": 10.326,
+      "score": 0.473
+    },
+    {
+      "word": "physics",
+      "start": 10.366,
+      "end": 10.667,
+      "score": 0.857
+    },
+    {
+      "word": "that",
+      "start": 10.707,
+      "end": 10.827,
+      "score": 0.874
+    },
+    {
+      "word": "tells",
+      "start": 10.847,
+      "end": 11.027,
+      "score": 0.806
+    },
+    {
+      "word": "you",
+      "start": 11.067,
+      "end": 11.167,
+      "score": 0.884
+    },
+    {
+      "word": "how",
+      "start": 11.247,
+      "end": 11.407,
+      "score": 0.865
+    },
+    {
+      "word": "light",
+      "start": 11.447,
+      "end": 11.647,
+      "score": 0.862
+    },
+    {
+      "word": "bends",
+      "start": 11.707,
+      "end": 12.067,
+      "score": 0.787
+    },
+    {
+      "word": "as",
+      "start": 12.408,
+      "end": 12.488,
+      "score": 0.832
+    },
+    {
+      "word": "it",
+      "start": 12.548,
+      "end": 12.588,
+      "score": 1.0
+    },
+    {
+      "word": "travels",
+      "start": 12.628,
+      "end": 12.928,
+      "score": 0.831
+    },
+    {
+      "word": "from",
+      "start": 12.948,
+      "end": 13.068,
+      "score": 0.776
+    },
+    {
+      "word": "one",
+      "start": 13.188,
+      "end": 13.288,
+      "score": 0.667
+    },
+    {
+      "word": "medium",
+      "start": 13.348,
+      "end": 13.669,
+      "score": 0.877
+    },
+    {
+      "word": "into",
+      "start": 13.789,
+      "end": 14.009,
+      "score": 0.79
+    },
+    {
+      "word": "another",
+      "start": 14.049,
+      "end": 14.349,
+      "score": 0.726
+    },
+    {
+      "word": "where",
+      "start": 14.509,
+      "end": 14.649,
+      "score": 0.908
+    },
+    {
+      "word": "its",
+      "start": 14.689,
+      "end": 14.769,
+      "score": 0.633
+    },
+    {
+      "word": "speed",
+      "start": 14.789,
+      "end": 15.029,
+      "score": 0.932
+    },
+    {
+      "word": "changes.",
+      "start": 15.07,
+      "end": 15.47,
+      "score": 0.881
+    },
+    {
+      "word": "Our",
+      "start": 16.29,
+      "end": 16.39,
+      "score": 0.833
+    },
+    {
+      "word": "conversation",
+      "start": 16.43,
+      "end": 17.091,
+      "score": 0.788
+    },
+    {
+      "word": "did",
+      "start": 17.371,
+      "end": 17.531,
+      "score": 0.889
+    },
+    {
+      "word": "talk",
+      "start": 17.571,
+      "end": 17.751,
+      "score": 0.999
+    },
+    {
+      "word": "about",
+      "start": 17.791,
+      "end": 17.992,
+      "score": 0.709
+    },
+    {
+      "word": "this",
+      "start": 18.012,
+      "end": 18.172,
+      "score": 0.758
+    },
+    {
+      "word": "in",
+      "start": 18.232,
+      "end": 18.312,
+      "score": 0.782
+    },
+    {
+      "word": "detail,",
+      "start": 18.372,
+      "end": 18.812,
+      "score": 0.776
+    },
+    {
+      "word": "but",
+      "start": 19.012,
+      "end": 19.172,
+      "score": 0.761
+    },
+    {
+      "word": "it",
+      "start": 19.312,
+      "end": 19.372,
+      "score": 0.75
+    },
+    {
+      "word": "was",
+      "start": 19.412,
+      "end": 19.513,
+      "score": 0.777
+    },
+    {
+      "word": "a",
+      "start": 19.533,
+      "end": 19.553,
+      "score": 0.999
+    },
+    {
+      "word": "little",
+      "start": 19.593,
+      "end": 19.753,
+      "score": 0.916
+    },
+    {
+      "word": "bit",
+      "start": 19.773,
+      "end": 19.913,
+      "score": 0.761
+    },
+    {
+      "word": "too",
+      "start": 19.933,
+      "end": 20.073,
+      "score": 0.761
+    },
+    {
+      "word": "much",
+      "start": 20.113,
+      "end": 20.293,
+      "score": 0.755
+    },
+    {
+      "word": "detail,",
+      "start": 20.353,
+      "end": 20.773,
+      "score": 0.785
+    },
+    {
+      "word": "so",
+      "start": 21.174,
+      "end": 21.334,
+      "score": 0.873
+    },
+    {
+      "word": "I",
+      "start": 21.554,
+      "end": 21.594,
+      "score": 0.932
+    },
+    {
+      "word": "ended",
+      "start": 21.634,
+      "end": 21.814,
+      "score": 0.249
+    },
+    {
+      "word": "up",
+      "start": 21.854,
+      "end": 21.914,
+      "score": 0.82
+    },
+    {
+      "word": "cutting",
+      "start": 21.934,
+      "end": 22.154,
+      "score": 0.924
+    },
+    {
+      "word": "it",
+      "start": 22.174,
+      "end": 22.234,
+      "score": 0.75
+    },
+    {
+      "word": "out",
+      "start": 22.274,
+      "end": 22.354,
+      "score": 0.849
+    },
+    {
+      "word": "of",
+      "start": 22.374,
+      "end": 22.415,
+      "score": 0.986
+    },
+    {
+      "word": "the",
+      "start": 22.435,
+      "end": 22.495,
+      "score": 0.846
+    },
+    {
+      "word": "video.",
+      "start": 22.535,
+      "end": 22.875,
+      "score": 0.893
+    },
+    {
+      "word": "So",
+      "start": 23.455,
+      "end": 23.555,
+      "score": 0.834
+    },
+    {
+      "word": "what",
+      "start": 23.575,
+      "end": 23.655,
+      "score": 0.736
+    },
+    {
+      "word": "I",
+      "start": 23.675,
+      "end": 23.715,
+      "score": 0.496
+    },
+    {
+      "word": "want",
+      "start": 23.755,
+      "end": 23.976,
+      "score": 0.714
+    },
+    {
+      "word": "to",
+      "start": 23.996,
+      "end": 24.056,
+      "score": 0.81
+    },
+    {
+      "word": "do",
+      "start": 24.076,
+      "end": 24.116,
+      "score": 0.0
+    },
+    {
+      "word": "here",
+      "start": 24.156,
+      "end": 24.376,
+      "score": 0.608
+    },
+    {
+      "word": "is",
+      "start": 24.776,
+      "end": 24.896,
+      "score": 0.633
+    },
+    {
+      "word": "just",
+      "start": 25.036,
+      "end": 25.176,
+      "score": 0.893
+    },
+    {
+      "word": "show",
+      "start": 25.196,
+      "end": 25.357,
+      "score": 0.718
+    },
+    {
+      "word": "you",
+      "start": 25.377,
+      "end": 25.477,
+      "score": 0.781
+    },
+    {
+      "word": "a",
+      "start": 25.497,
+      "end": 25.537,
+      "score": 0.498
+    },
+    {
+      "word": "condensed",
+      "start": 25.577,
+      "end": 25.917,
+      "score": 0.738
+    },
+    {
+      "word": "version",
+      "start": 25.957,
+      "end": 26.197,
+      "score": 0.952
+    },
+    {
+      "word": "of",
+      "start": 26.237,
+      "end": 26.297,
+      "score": 0.755
+    },
+    {
+      "word": "that,",
+      "start": 26.337,
+      "end": 26.497,
+      "score": 0.927
+    },
+    {
+      "word": "because",
+      "start": 26.517,
+      "end": 26.998,
+      "score": 0.766
+    },
+    {
+      "word": "it",
+      "start": 27.018,
+      "end": 27.058,
+      "score": 0.996
+    },
+    {
+      "word": "references",
+      "start": 27.098,
+      "end": 27.478,
+      "score": 0.882
+    },
+    {
+      "word": "a",
+      "start": 27.518,
+      "end": 27.558,
+      "score": 0.505
+    },
+    {
+      "word": "pretty",
+      "start": 27.598,
+      "end": 27.818,
+      "score": 0.838
+    },
+    {
+      "word": "clever",
+      "start": 27.858,
+      "end": 28.138,
+      "score": 0.539
+    },
+    {
+      "word": "argument",
+      "start": 28.178,
+      "end": 28.519,
+      "score": 0.836
+    },
+    {
+      "word": "by",
+      "start": 28.559,
+      "end": 28.679,
+      "score": 0.826
+    },
+    {
+      "word": "Mark",
+      "start": 28.739,
+      "end": 28.919,
+      "score": 0.967
+    },
+    {
+      "word": "Levy,",
+      "start": 28.959,
+      "end": 29.239,
+      "score": 0.782
+    },
+    {
+      "word": "and",
+      "start": 29.599,
+      "end": 29.699,
+      "score": 0.714
+    },
+    {
+      "word": "it",
+      "start": 29.719,
+      "end": 29.78,
+      "score": 0.75
+    },
+    {
+      "word": "also",
+      "start": 29.82,
+      "end": 30.04,
+      "score": 0.77
+    },
+    {
+      "word": "gives",
+      "start": 30.08,
+      "end": 30.26,
+      "score": 0.68
+    },
+    {
+      "word": "a",
+      "start": 30.3,
+      "end": 30.34,
+      "score": 0.502
+    },
+    {
+      "word": "sense",
+      "start": 30.36,
+      "end": 30.56,
+      "score": 0.94
+    },
+    {
+      "word": "of",
+      "start": 30.6,
+      "end": 30.66,
+      "score": 0.75
+    },
+    {
+      "word": "completion",
+      "start": 30.9,
+      "end": 31.461,
+      "score": 0.835
+    },
+    {
+      "word": "to",
+      "start": 31.561,
+      "end": 31.641,
+      "score": 0.932
+    },
+    {
+      "word": "the",
+      "start": 31.661,
+      "end": 31.721,
+      "score": 0.995
+    },
+    {
+      "word": "Brachistochrone",
+      "start": 31.761,
+      "end": 32.441,
+      "score": 0.738
+    },
+    {
+      "word": "solution",
+      "start": 32.461,
+      "end": 32.822,
+      "score": 0.843
+    },
+    {
+      "word": "as",
+      "start": 32.862,
+      "end": 32.962,
+      "score": 0.645
+    },
+    {
+      "word": "a",
+      "start": 33.002,
+      "end": 33.022,
+      "score": 0.997
+    },
+    {
+      "word": "whole.",
+      "start": 33.062,
+      "end": 33.222,
+      "score": 0.983
+    },
+    {
+      "word": "Consider",
+      "start": 37.748,
+      "end": 38.068,
+      "score": 0.848
+    },
+    {
+      "word": "when",
+      "start": 38.088,
+      "end": 38.208,
+      "score": 0.906
+    },
+    {
+      "word": "light",
+      "start": 38.248,
+      "end": 38.409,
+      "score": 0.806
+    },
+    {
+      "word": "travels",
+      "start": 38.449,
+      "end": 38.729,
+      "score": 0.814
+    },
+    {
+      "word": "from",
+      "start": 38.749,
+      "end": 38.889,
+      "score": 0.638
+    },
+    {
+      "word": "air",
+      "start": 39.029,
+      "end": 39.189,
+      "score": 0.797
+    },
+    {
+      "word": "into",
+      "start": 39.329,
+      "end": 39.51,
+      "score": 0.861
+    },
+    {
+      "word": "water.",
+      "start": 39.55,
+      "end": 39.81,
+      "score": 0.893
+    },
+    {
+      "word": "The",
+      "start": 39.83,
+      "end": 40.671,
+      "score": 0.552
+    },
+    {
+      "word": "speed",
+      "start": 40.691,
+      "end": 40.911,
+      "score": 0.883
+    },
+    {
+      "word": "of",
+      "start": 40.931,
+      "end": 40.991,
+      "score": 0.88
+    },
+    {
+      "word": "light",
+      "start": 41.031,
+      "end": 41.231,
+      "score": 0.736
+    },
+    {
+      "word": "is",
+      "start": 41.291,
+      "end": 41.371,
+      "score": 0.669
+    },
+    {
+      "word": "a",
+      "start": 41.411,
+      "end": 41.451,
+      "score": 0.499
+    },
+    {
+      "word": "little",
+      "start": 41.491,
+      "end": 41.691,
+      "score": 0.851
+    },
+    {
+      "word": "bit",
+      "start": 41.711,
+      "end": 41.832,
+      "score": 0.51
+    },
+    {
+      "word": "slower",
+      "start": 41.892,
+      "end": 42.252,
+      "score": 0.744
+    },
+    {
+      "word": "in",
+      "start": 42.292,
+      "end": 42.372,
+      "score": 0.682
+    },
+    {
+      "word": "water",
+      "start": 42.432,
+      "end": 42.772,
+      "score": 0.714
+    },
+    {
+      "word": "than",
+      "start": 42.892,
+      "end": 43.053,
+      "score": 0.834
+    },
+    {
+      "word": "it",
+      "start": 43.093,
+      "end": 43.153,
+      "score": 0.749
+    },
+    {
+      "word": "is",
+      "start": 43.213,
+      "end": 43.293,
+      "score": 0.662
+    },
+    {
+      "word": "in",
+      "start": 43.353,
+      "end": 43.413,
+      "score": 0.526
+    },
+    {
+      "word": "air.",
+      "start": 43.553,
+      "end": 43.693,
+      "score": 0.766
+    },
+    {
+      "word": "And",
+      "start": 44.414,
+      "end": 44.494,
+      "score": 0.898
+    },
+    {
+      "word": "this",
+      "start": 44.514,
+      "end": 44.654,
+      "score": 0.846
+    },
+    {
+      "word": "results",
+      "start": 44.714,
+      "end": 44.994,
+      "score": 0.916
+    },
+    {
+      "word": "in",
+      "start": 45.034,
+      "end": 45.094,
+      "score": 0.924
+    },
+    {
+      "word": "the",
+      "start": 45.134,
+      "end": 45.194,
+      "score": 0.99
+    },
+    {
+      "word": "beam",
+      "start": 45.234,
+      "end": 45.415,
+      "score": 0.788
+    },
+    {
+      "word": "of",
+      "start": 45.455,
+      "end": 45.535,
+      "score": 0.732
+    },
+    {
+      "word": "light",
+      "start": 45.575,
+      "end": 45.775,
+      "score": 0.816
+    },
+    {
+      "word": "bending",
+      "start": 45.935,
+      "end": 46.355,
+      "score": 0.853
+    },
+    {
+      "word": "as",
+      "start": 46.496,
+      "end": 46.576,
+      "score": 0.755
+    },
+    {
+      "word": "it",
+      "start": 46.636,
+      "end": 46.696,
+      "score": 0.75
+    },
+    {
+      "word": "enters",
+      "start": 46.756,
+      "end": 46.996,
+      "score": 0.863
+    },
+    {
+      "word": "the",
+      "start": 47.056,
+      "end": 47.116,
+      "score": 0.998
+    },
+    {
+      "word": "water.",
+      "start": 47.156,
+      "end": 47.436,
+      "score": 0.743
+    },
+    {
+      "word": "Why?",
+      "start": 48.237,
+      "end": 48.477,
+      "score": 0.91
+    },
+    {
+      "word": "There",
+      "start": 50.539,
+      "end": 50.679,
+      "score": 0.864
+    },
+    {
+      "word": "are",
+      "start": 50.719,
+      "end": 50.799,
+      "score": 0.835
+    },
+    {
+      "word": "many",
+      "start": 50.839,
+      "end": 50.979,
+      "score": 0.862
+    },
+    {
+      "word": "ways",
+      "start": 51.019,
+      "end": 51.16,
+      "score": 0.828
+    },
+    {
+      "word": "that",
+      "start": 51.2,
+      "end": 51.3,
+      "score": 0.88
+    },
+    {
+      "word": "you",
+      "start": 51.32,
+      "end": 51.38,
+      "score": 1.0
+    },
+    {
+      "word": "can",
+      "start": 51.42,
+      "end": 51.52,
+      "score": 0.997
+    },
+    {
+      "word": "think",
+      "start": 51.56,
+      "end": 51.72,
+      "score": 0.834
+    },
+    {
+      "word": "about",
+      "start": 51.76,
+      "end": 51.96,
+      "score": 0.841
+    },
+    {
+      "word": "this,",
+      "start": 52.0,
+      "end": 52.18,
+      "score": 0.847
+    },
+    {
+      "word": "but",
+      "start": 52.401,
+      "end": 52.501,
+      "score": 0.843
+    },
+    {
+      "word": "a",
+      "start": 52.521,
+      "end": 52.561,
+      "score": 0.505
+    },
+    {
+      "word": "pretty",
+      "start": 52.601,
+      "end": 52.801,
+      "score": 0.888
+    },
+    {
+      "word": "neat",
+      "start": 52.841,
+      "end": 52.981,
+      "score": 0.916
+    },
+    {
+      "word": "one",
+      "start": 53.061,
+      "end": 53.161,
+      "score": 0.694
+    },
+    {
+      "word": "is",
+      "start": 53.201,
+      "end": 53.281,
+      "score": 0.694
+    },
+    {
+      "word": "to",
+      "start": 53.321,
+      "end": 53.382,
+      "score": 0.798
+    },
+    {
+      "word": "use",
+      "start": 53.482,
+      "end": 53.642,
+      "score": 0.533
+    },
+    {
+      "word": "Fermat's",
+      "start": 53.682,
+      "end": 54.122,
+      "score": 0.77
+    },
+    {
+      "word": "principle.",
+      "start": 54.162,
+      "end": 54.583,
+      "score": 0.853
+    },
+    {
+      "word": "We",
+      "start": 55.123,
+      "end": 55.203,
+      "score": 0.804
+    },
+    {
+      "word": "talked",
+      "start": 55.243,
+      "end": 55.443,
+      "score": 0.907
+    },
+    {
+      "word": "about",
+      "start": 55.463,
+      "end": 55.623,
+      "score": 0.736
+    },
+    {
+      "word": "this",
+      "start": 55.643,
+      "end": 55.764,
+      "score": 0.917
+    },
+    {
+      "word": "in",
+      "start": 55.804,
+      "end": 55.864,
+      "score": 0.73
+    },
+    {
+      "word": "detail",
+      "start": 55.904,
+      "end": 56.284,
+      "score": 0.781
+    },
+    {
+      "word": "in",
+      "start": 56.304,
+      "end": 56.364,
+      "score": 0.876
+    },
+    {
+      "word": "the",
+      "start": 56.384,
+      "end": 56.464,
+      "score": 0.826
+    },
+    {
+      "word": "Brachistochrone",
+      "start": 56.504,
+      "end": 57.105,
+      "score": 0.595
+    },
+    {
+      "word": "video,",
+      "start": 57.125,
+      "end": 57.505,
+      "score": 0.821
+    },
+    {
+      "word": "but",
+      "start": 57.865,
+      "end": 57.985,
+      "score": 0.911
+    },
+    {
+      "word": "in",
+      "start": 58.106,
+      "end": 58.186,
+      "score": 0.678
+    },
+    {
+      "word": "short,",
+      "start": 58.226,
+      "end": 58.446,
+      "score": 0.684
+    },
+    {
+      "word": "it",
+      "start": 58.666,
+      "end": 58.726,
+      "score": 0.75
+    },
+    {
+      "word": "tells",
+      "start": 58.766,
+      "end": 58.926,
+      "score": 0.948
+    },
+    {
+      "word": "you",
+      "start": 58.966,
+      "end": 59.046,
+      "score": 0.923
+    },
+    {
+      "word": "that",
+      "start": 59.066,
+      "end": 59.166,
+      "score": 0.894
+    },
+    {
+      "word": "if",
+      "start": 59.267,
+      "end": 59.347,
+      "score": 0.833
+    },
+    {
+      "word": "light",
+      "start": 59.447,
+      "end": 59.647,
+      "score": 0.851
+    },
+    {
+      "word": "goes",
+      "start": 59.727,
+      "end": 59.967,
+      "score": 0.752
+    },
+    {
+      "word": "from",
+      "start": 60.007,
+      "end": 60.147,
+      "score": 0.836
+    },
+    {
+      "word": "some",
+      "start": 60.207,
+      "end": 60.388,
+      "score": 0.82
+    },
+    {
+      "word": "point",
+      "start": 60.448,
+      "end": 60.688,
+      "score": 0.684
+    },
+    {
+      "word": "to",
+      "start": 60.748,
+      "end": 60.888,
+      "score": 0.581
+    },
+    {
+      "word": "another,",
+      "start": 60.928,
+      "end": 61.268,
+      "score": 0.779
+    },
+    {
+      "word": "it",
+      "start": 61.769,
+      "end": 61.829,
+      "score": 0.747
+    },
+    {
+      "word": "will",
+      "start": 61.849,
+      "end": 62.009,
+      "score": 0.878
+    },
+    {
+      "word": "always",
+      "start": 62.089,
+      "end": 62.389,
+      "score": 0.714
+    },
+    {
+      "word": "do",
+      "start": 62.449,
+      "end": 62.589,
+      "score": 0.871
+    },
+    {
+      "word": "it",
+      "start": 62.629,
+      "end": 62.67,
+      "score": 0.994
+    },
+    {
+      "word": "in",
+      "start": 62.75,
+      "end": 62.83,
+      "score": 0.754
+    },
+    {
+      "word": "the",
+      "start": 62.87,
+      "end": 62.95,
+      "score": 0.839
+    },
+    {
+      "word": "fastest",
+      "start": 63.05,
+      "end": 63.51,
+      "score": 0.868
+    },
+    {
+      "word": "way",
+      "start": 63.59,
+      "end": 63.75,
+      "score": 0.876
+    },
+    {
+      "word": "possible.",
+      "start": 63.81,
+      "end": 64.211,
+      "score": 0.988
+    },
+    {
+      "word": "Consider",
+      "start": 66.417,
+      "end": 66.758,
+      "score": 0.934
+    },
+    {
+      "word": "some",
+      "start": 66.798,
+      "end": 66.918,
+      "score": 0.969
+    },
+    {
+      "word": "point",
+      "start": 66.958,
+      "end": 67.178,
+      "score": 0.736
+    },
+    {
+      "word": "A",
+      "start": 67.399,
+      "end": 67.519,
+      "score": 0.696
+    },
+    {
+      "word": "in",
+      "start": 67.719,
+      "end": 67.779,
+      "score": 0.758
+    },
+    {
+      "word": "its",
+      "start": 67.82,
+      "end": 67.92,
+      "score": 0.817
+    },
+    {
+      "word": "trajectory",
+      "start": 67.96,
+      "end": 68.401,
+      "score": 0.894
+    },
+    {
+      "word": "in",
+      "start": 68.441,
+      "end": 68.501,
+      "score": 0.869
+    },
+    {
+      "word": "the",
+      "start": 68.541,
+      "end": 68.621,
+      "score": 0.833
+    },
+    {
+      "word": "air",
+      "start": 68.761,
+      "end": 68.921,
+      "score": 0.677
+    },
+    {
+      "word": "and",
+      "start": 69.382,
+      "end": 69.462,
+      "score": 0.847
+    },
+    {
+      "word": "some",
+      "start": 69.482,
+      "end": 69.623,
+      "score": 0.894
+    },
+    {
+      "word": "point",
+      "start": 69.663,
+      "end": 69.883,
+      "score": 0.84
+    },
+    {
+      "word": "B",
+      "start": 69.943,
+      "end": 70.224,
+      "score": 0.787
+    },
+    {
+      "word": "on",
+      "start": 70.404,
+      "end": 70.464,
+      "score": 0.754
+    },
+    {
+      "word": "its",
+      "start": 70.504,
+      "end": 70.604,
+      "score": 0.806
+    },
+    {
+      "word": "trajectory",
+      "start": 70.624,
+      "end": 71.105,
+      "score": 0.874
+    },
+    {
+      "word": "in",
+      "start": 71.125,
+      "end": 71.205,
+      "score": 0.682
+    },
+    {
+      "word": "the",
+      "start": 71.225,
+      "end": 71.306,
+      "score": 0.836
+    },
+    {
+      "word": "water.",
+      "start": 71.346,
+      "end": 71.606,
+      "score": 0.796
+    },
+    {
+      "word": "First",
+      "start": 73.149,
+      "end": 73.369,
+      "score": 0.809
+    },
+    {
+      "word": "you",
+      "start": 73.409,
+      "end": 73.509,
+      "score": 0.837
+    },
+    {
+      "word": "might",
+      "start": 73.529,
+      "end": 73.69,
+      "score": 0.783
+    },
+    {
+      "word": "think",
+      "start": 73.71,
+      "end": 73.91,
+      "score": 0.819
+    },
+    {
+      "word": "that",
+      "start": 73.95,
+      "end": 74.11,
+      "score": 0.822
+    },
+    {
+      "word": "the",
+      "start": 74.251,
+      "end": 74.351,
+      "score": 0.881
+    },
+    {
+      "word": "straight",
+      "start": 74.411,
+      "end": 74.631,
+      "score": 0.82
+    },
+    {
+      "word": "line",
+      "start": 74.671,
+      "end": 74.852,
+      "score": 0.995
+    },
+    {
+      "word": "between",
+      "start": 74.892,
+      "end": 75.192,
+      "score": 0.901
+    },
+    {
+      "word": "them",
+      "start": 75.232,
+      "end": 75.393,
+      "score": 0.829
+    },
+    {
+      "word": "is",
+      "start": 75.613,
+      "end": 75.693,
+      "score": 0.582
+    },
+    {
+      "word": "the",
+      "start": 75.733,
+      "end": 75.813,
+      "score": 0.836
+    },
+    {
+      "word": "fastest",
+      "start": 75.854,
+      "end": 76.274,
+      "score": 0.839
+    },
+    {
+      "word": "path.",
+      "start": 76.294,
+      "end": 76.555,
+      "score": 0.972
+    },
+    {
+      "word": "The",
+      "start": 76.889,
+      "end": 76.969,
+      "score": 0.836
+    },
+    {
+      "word": "only",
+      "start": 76.989,
+      "end": 77.169,
+      "score": 0.714
+    },
+    {
+      "word": "problem",
+      "start": 77.209,
+      "end": 77.49,
+      "score": 0.939
+    },
+    {
+      "word": "with",
+      "start": 77.51,
+      "end": 77.61,
+      "score": 0.447
+    },
+    {
+      "word": "that",
+      "start": 77.65,
+      "end": 77.81,
+      "score": 0.857
+    },
+    {
+      "word": "strategy",
+      "start": 77.85,
+      "end": 78.33,
+      "score": 0.839
+    },
+    {
+      "word": "though,",
+      "start": 78.37,
+      "end": 78.531,
+      "score": 0.919
+    },
+    {
+      "word": "even",
+      "start": 78.591,
+      "end": 78.731,
+      "score": 0.87
+    },
+    {
+      "word": "though",
+      "start": 78.751,
+      "end": 78.891,
+      "score": 0.934
+    },
+    {
+      "word": "it's",
+      "start": 78.911,
+      "end": 79.011,
+      "score": 0.871
+    },
+    {
+      "word": "the",
+      "start": 79.031,
+      "end": 79.111,
+      "score": 0.829
+    },
+    {
+      "word": "shortest",
+      "start": 79.171,
+      "end": 79.511,
+      "score": 0.84
+    },
+    {
+      "word": "path,",
+      "start": 79.571,
+      "end": 79.952,
+      "score": 0.794
+    },
+    {
+      "word": "is",
+      "start": 80.192,
+      "end": 80.272,
+      "score": 0.705
+    },
+    {
+      "word": "that",
+      "start": 80.332,
+      "end": 80.512,
+      "score": 0.783
+    },
+    {
+      "word": "you",
+      "start": 80.993,
+      "end": 81.093,
+      "score": 0.728
+    },
+    {
+      "word": "may",
+      "start": 81.113,
+      "end": 81.233,
+      "score": 0.996
+    },
+    {
+      "word": "be",
+      "start": 81.273,
+      "end": 81.373,
+      "score": 0.925
+    },
+    {
+      "word": "spending",
+      "start": 81.433,
+      "end": 81.753,
+      "score": 0.829
+    },
+    {
+      "word": "a",
+      "start": 81.793,
+      "end": 81.833,
+      "score": 0.548
+    },
+    {
+      "word": "long",
+      "start": 81.874,
+      "end": 82.114,
+      "score": 0.674
+    },
+    {
+      "word": "time",
+      "start": 82.174,
+      "end": 82.474,
+      "score": 0.696
+    },
+    {
+      "word": "in",
+      "start": 82.674,
+      "end": 82.754,
+      "score": 0.825
+    },
+    {
+      "word": "the",
+      "start": 82.794,
+      "end": 82.874,
+      "score": 0.832
+    },
+    {
+      "word": "water.",
+      "start": 82.914,
+      "end": 83.255,
+      "score": 0.691
+    },
+    {
+      "word": "Light",
+      "start": 83.735,
+      "end": 83.915,
+      "score": 0.811
+    },
+    {
+      "word": "is",
+      "start": 84.015,
+      "end": 84.116,
+      "score": 0.738
+    },
+    {
+      "word": "slower",
+      "start": 84.196,
+      "end": 84.476,
+      "score": 0.871
+    },
+    {
+      "word": "in",
+      "start": 84.496,
+      "end": 84.556,
+      "score": 0.766
+    },
+    {
+      "word": "the",
+      "start": 84.596,
+      "end": 84.656,
+      "score": 0.998
+    },
+    {
+      "word": "water,",
+      "start": 84.696,
+      "end": 84.956,
+      "score": 0.79
+    },
+    {
+      "word": "so",
+      "start": 85.177,
+      "end": 85.337,
+      "score": 0.806
+    },
+    {
+      "word": "the",
+      "start": 85.517,
+      "end": 85.597,
+      "score": 0.838
+    },
+    {
+      "word": "path",
+      "start": 85.617,
+      "end": 85.817,
+      "score": 0.808
+    },
+    {
+      "word": "can",
+      "start": 85.837,
+      "end": 85.957,
+      "score": 0.891
+    },
+    {
+      "word": "become",
+      "start": 85.977,
+      "end": 86.237,
+      "score": 0.806
+    },
+    {
+      "word": "faster",
+      "start": 86.278,
+      "end": 86.698,
+      "score": 0.744
+    },
+    {
+      "word": "if",
+      "start": 86.918,
+      "end": 86.978,
+      "score": 1.0
+    },
+    {
+      "word": "we",
+      "start": 87.018,
+      "end": 87.158,
+      "score": 0.868
+    },
+    {
+      "word": "shift",
+      "start": 87.218,
+      "end": 87.479,
+      "score": 0.686
+    },
+    {
+      "word": "things",
+      "start": 87.519,
+      "end": 87.759,
+      "score": 0.856
+    },
+    {
+      "word": "to",
+      "start": 87.819,
+      "end": 87.939,
+      "score": 0.828
+    },
+    {
+      "word": "favor",
+      "start": 88.039,
+      "end": 88.399,
+      "score": 0.834
+    },
+    {
+      "word": "spending",
+      "start": 88.419,
+      "end": 88.8,
+      "score": 0.845
+    },
+    {
+      "word": "more",
+      "start": 88.84,
+      "end": 89.02,
+      "score": 0.702
+    },
+    {
+      "word": "time",
+      "start": 89.06,
+      "end": 89.26,
+      "score": 0.828
+    },
+    {
+      "word": "in",
+      "start": 89.3,
+      "end": 89.36,
+      "score": 0.757
+    },
+    {
+      "word": "the",
+      "start": 89.4,
+      "end": 89.48,
+      "score": 0.833
+    },
+    {
+      "word": "air.",
+      "start": 89.621,
+      "end": 89.741,
+      "score": 0.834
+    },
+    {
+      "word": "You",
+      "start": 90.321,
+      "end": 90.401,
+      "score": 0.856
+    },
+    {
+      "word": "might",
+      "start": 90.441,
+      "end": 90.581,
+      "score": 0.8
+    },
+    {
+      "word": "even",
+      "start": 90.641,
+      "end": 90.802,
+      "score": 0.634
+    },
+    {
+      "word": "try",
+      "start": 90.822,
+      "end": 90.962,
+      "score": 0.744
+    },
+    {
+      "word": "to",
+      "start": 90.982,
+      "end": 91.062,
+      "score": 0.5
+    },
+    {
+      "word": "minimize",
+      "start": 91.162,
+      "end": 91.642,
+      "score": 0.918
+    },
+    {
+      "word": "the",
+      "start": 91.682,
+      "end": 91.762,
+      "score": 0.836
+    },
+    {
+      "word": "time",
+      "start": 91.802,
+      "end": 92.043,
+      "score": 0.899
+    },
+    {
+      "word": "spent",
+      "start": 92.103,
+      "end": 92.343,
+      "score": 0.781
+    },
+    {
+      "word": "in",
+      "start": 92.363,
+      "end": 92.423,
+      "score": 0.768
+    },
+    {
+      "word": "the",
+      "start": 92.463,
+      "end": 92.523,
+      "score": 0.998
+    },
+    {
+      "word": "water",
+      "start": 92.563,
+      "end": 92.823,
+      "score": 0.806
+    },
+    {
+      "word": "by",
+      "start": 92.863,
+      "end": 92.984,
+      "score": 0.782
+    },
+    {
+      "word": "shifting",
+      "start": 93.044,
+      "end": 93.344,
+      "score": 0.809
+    },
+    {
+      "word": "it",
+      "start": 93.384,
+      "end": 93.444,
+      "score": 0.744
+    },
+    {
+      "word": "all",
+      "start": 93.524,
+      "end": 93.644,
+      "score": 0.839
+    },
+    {
+      "word": "the",
+      "start": 93.664,
+      "end": 93.744,
+      "score": 0.833
+    },
+    {
+      "word": "way",
+      "start": 93.784,
+      "end": 93.884,
+      "score": 0.779
+    },
+    {
+      "word": "to",
+      "start": 93.924,
+      "end": 94.004,
+      "score": 0.68
+    },
+    {
+      "word": "the",
+      "start": 94.025,
+      "end": 94.105,
+      "score": 0.828
+    },
+    {
+      "word": "right.",
+      "start": 94.145,
+      "end": 94.345,
+      "score": 0.789
+    },
+    {
+      "word": "However,",
+      "start": 94.965,
+      "end": 95.266,
+      "score": 0.909
+    },
+    {
+      "word": "it's",
+      "start": 95.286,
+      "end": 95.606,
+      "score": 0.638
+    },
+    {
+      "word": "not",
+      "start": 95.646,
+      "end": 95.746,
+      "score": 0.981
+    },
+    {
+      "word": "actually",
+      "start": 95.806,
+      "end": 96.066,
+      "score": 0.812
+    },
+    {
+      "word": "the",
+      "start": 96.106,
+      "end": 96.186,
+      "score": 0.832
+    },
+    {
+      "word": "best",
+      "start": 96.206,
+      "end": 96.387,
+      "score": 0.703
+    },
+    {
+      "word": "thing",
+      "start": 96.427,
+      "end": 96.567,
+      "score": 0.887
+    },
+    {
+      "word": "to",
+      "start": 96.607,
+      "end": 96.687,
+      "score": 0.749
+    },
+    {
+      "word": "do",
+      "start": 96.707,
+      "end": 96.827,
+      "score": 0.93
+    },
+    {
+      "word": "either.",
+      "start": 96.907,
+      "end": 97.127,
+      "score": 0.807
+    },
+    {
+      "word": "As",
+      "start": 97.788,
+      "end": 97.888,
+      "score": 0.781
+    },
+    {
+      "word": "with",
+      "start": 97.928,
+      "end": 98.048,
+      "score": 0.935
+    },
+    {
+      "word": "the",
+      "start": 98.068,
+      "end": 98.128,
+      "score": 0.988
+    },
+    {
+      "word": "Brachistochrone",
+      "start": 98.168,
+      "end": 98.809,
+      "score": 0.758
+    },
+    {
+      "word": "problem,",
+      "start": 98.829,
+      "end": 99.189,
+      "score": 0.834
+    },
+    {
+      "word": "we",
+      "start": 99.389,
+      "end": 99.489,
+      "score": 0.832
+    },
+    {
+      "word": "find",
+      "start": 99.529,
+      "end": 99.69,
+      "score": 0.867
+    },
+    {
+      "word": "ourselves",
+      "start": 99.73,
+      "end": 100.01,
+      "score": 0.878
+    },
+    {
+      "word": "trying",
+      "start": 100.07,
+      "end": 100.27,
+      "score": 0.832
+    },
+    {
+      "word": "to",
+      "start": 100.31,
+      "end": 100.37,
+      "score": 0.75
+    },
+    {
+      "word": "balance",
+      "start": 100.45,
+      "end": 100.811,
+      "score": 0.895
+    },
+    {
+      "word": "these",
+      "start": 100.871,
+      "end": 101.011,
+      "score": 0.801
+    },
+    {
+      "word": "two",
+      "start": 101.031,
+      "end": 101.171,
+      "score": 0.794
+    },
+    {
+      "word": "competing",
+      "start": 101.231,
+      "end": 101.611,
+      "score": 0.854
+    },
+    {
+      "word": "factors.",
+      "start": 101.651,
+      "end": 102.072,
+      "score": 0.859
+    },
+    {
+      "word": "It's",
+      "start": 102.748,
+      "end": 102.848,
+      "score": 0.916
+    },
+    {
+      "word": "a",
+      "start": 102.908,
+      "end": 102.928,
+      "score": 0.993
+    },
+    {
+      "word": "problem",
+      "start": 102.968,
+      "end": 103.208,
+      "score": 0.977
+    },
+    {
+      "word": "that",
+      "start": 103.248,
+      "end": 103.328,
+      "score": 0.88
+    },
+    {
+      "word": "you",
+      "start": 103.348,
+      "end": 103.449,
+      "score": 0.797
+    },
+    {
+      "word": "can",
+      "start": 103.469,
+      "end": 103.609,
+      "score": 0.874
+    },
+    {
+      "word": "write",
+      "start": 103.669,
+      "end": 103.869,
+      "score": 0.816
+    },
+    {
+      "word": "down",
+      "start": 103.909,
+      "end": 104.189,
+      "score": 0.847
+    },
+    {
+      "word": "with",
+      "start": 104.269,
+      "end": 104.509,
+      "score": 0.664
+    },
+    {
+      "word": "geometry.",
+      "start": 104.669,
+      "end": 105.45,
+      "score": 0.898
+    },
+    {
+      "word": "And",
+      "start": 105.79,
+      "end": 105.91,
+      "score": 0.873
+    },
+    {
+      "word": "if",
+      "start": 106.03,
+      "end": 106.09,
+      "score": 0.998
+    },
+    {
+      "word": "this",
+      "start": 106.13,
+      "end": 106.251,
+      "score": 0.965
+    },
+    {
+      "word": "was",
+      "start": 106.291,
+      "end": 106.391,
+      "score": 0.88
+    },
+    {
+      "word": "a",
+      "start": 106.431,
+      "end": 106.471,
+      "score": 0.502
+    },
+    {
+      "word": "calculus",
+      "start": 106.511,
+      "end": 106.911,
+      "score": 0.792
+    },
+    {
+      "word": "class,",
+      "start": 106.931,
+      "end": 107.211,
+      "score": 0.772
+    },
+    {
+      "word": "we",
+      "start": 107.331,
+      "end": 107.431,
+      "score": 0.895
+    },
+    {
+      "word": "would",
+      "start": 107.451,
+      "end": 107.612,
+      "score": 0.855
+    },
+    {
+      "word": "set",
+      "start": 107.752,
+      "end": 107.912,
+      "score": 0.995
+    },
+    {
+      "word": "up",
+      "start": 107.972,
+      "end": 108.052,
+      "score": 0.833
+    },
+    {
+      "word": "the",
+      "start": 108.092,
+      "end": 108.172,
+      "score": 0.836
+    },
+    {
+      "word": "appropriate",
+      "start": 108.212,
+      "end": 108.652,
+      "score": 0.905
+    },
+    {
+      "word": "equation",
+      "start": 108.692,
+      "end": 109.073,
+      "score": 0.898
+    },
+    {
+      "word": "with",
+      "start": 109.133,
+      "end": 109.313,
+      "score": 0.674
+    },
+    {
+      "word": "a",
+      "start": 109.433,
+      "end": 109.473,
+      "score": 0.67
+    },
+    {
+      "word": "single",
+      "start": 109.513,
+      "end": 109.753,
+      "score": 0.838
+    },
+    {
+      "word": "variable",
+      "start": 109.793,
+      "end": 110.193,
+      "score": 0.879
+    },
+    {
+      "word": "x",
+      "start": 110.414,
+      "end": 110.534,
+      "score": 0.998
+    },
+    {
+      "word": "and",
+      "start": 110.934,
+      "end": 111.014,
+      "score": 0.838
+    },
+    {
+      "word": "find",
+      "start": 111.094,
+      "end": 111.334,
+      "score": 0.818
+    },
+    {
+      "word": "where",
+      "start": 111.354,
+      "end": 111.494,
+      "score": 0.873
+    },
+    {
+      "word": "its",
+      "start": 111.534,
+      "end": 111.634,
+      "score": 0.815
+    },
+    {
+      "word": "derivative",
+      "start": 111.674,
+      "end": 112.155,
+      "score": 0.774
+    },
+    {
+      "word": "is",
+      "start": 112.215,
+      "end": 112.255,
+      "score": 0.134
+    },
+    {
+      "word": "zero.",
+      "start": 112.295,
+      "end": 112.635,
+      "score": 0.853
+    },
+    {
+      "word": "But",
+      "start": 114.537,
+      "end": 114.617,
+      "score": 0.837
+    },
+    {
+      "word": "we've",
+      "start": 114.637,
+      "end": 114.797,
+      "score": 0.89
+    },
+    {
+      "word": "got",
+      "start": 114.837,
+      "end": 114.957,
+      "score": 0.93
+    },
+    {
+      "word": "something",
+      "start": 114.997,
+      "end": 115.277,
+      "score": 0.822
+    },
+    {
+      "word": "better",
+      "start": 115.317,
+      "end": 115.517,
+      "score": 0.912
+    },
+    {
+      "word": "than",
+      "start": 115.537,
+      "end": 115.657,
+      "score": 0.808
+    },
+    {
+      "word": "calculus,",
+      "start": 115.697,
+      "end": 116.178,
+      "score": 0.773
+    },
+    {
+      "word": "a",
+      "start": 116.678,
+      "end": 116.738,
+      "score": 0.668
+    },
+    {
+      "word": "Mark-Levy",
+      "start": 116.758,
+      "end": 117.279,
+      "score": 0.892
+    },
+    {
+      "word": "solution.",
+      "start": 117.319,
+      "end": 117.779,
+      "score": 0.843
+    },
+    {
+      "word": "He",
+      "start": 118.82,
+      "end": 118.9,
+      "score": 0.696
+    },
+    {
+      "word": "recognized",
+      "start": 118.94,
+      "end": 119.42,
+      "score": 0.888
+    },
+    {
+      "word": "that",
+      "start": 119.44,
+      "end": 119.56,
+      "score": 0.789
+    },
+    {
+      "word": "optics",
+      "start": 119.72,
+      "end": 120.0,
+      "score": 0.616
+    },
+    {
+      "word": "is",
+      "start": 120.081,
+      "end": 120.161,
+      "score": 0.703
+    },
+    {
+      "word": "not",
+      "start": 120.201,
+      "end": 120.341,
+      "score": 0.781
+    },
+    {
+      "word": "the",
+      "start": 120.381,
+      "end": 120.481,
+      "score": 0.851
+    },
+    {
+      "word": "only",
+      "start": 120.581,
+      "end": 120.781,
+      "score": 0.676
+    },
+    {
+      "word": "time",
+      "start": 120.841,
+      "end": 121.121,
+      "score": 0.922
+    },
+    {
+      "word": "that",
+      "start": 121.181,
+      "end": 121.321,
+      "score": 0.793
+    },
+    {
+      "word": "nature",
+      "start": 121.361,
+      "end": 121.642,
+      "score": 0.814
+    },
+    {
+      "word": "seeks",
+      "start": 121.682,
+      "end": 121.882,
+      "score": 0.916
+    },
+    {
+      "word": "out",
+      "start": 121.962,
+      "end": 122.062,
+      "score": 0.883
+    },
+    {
+      "word": "a",
+      "start": 122.082,
+      "end": 122.122,
+      "score": 0.671
+    },
+    {
+      "word": "minimum.",
+      "start": 122.162,
+      "end": 122.542,
+      "score": 0.825
+    },
+    {
+      "word": "It",
+      "start": 123.083,
+      "end": 123.143,
+      "score": 0.958
+    },
+    {
+      "word": "does",
+      "start": 123.163,
+      "end": 123.303,
+      "score": 0.806
+    },
+    {
+      "word": "so",
+      "start": 123.323,
+      "end": 123.423,
+      "score": 0.994
+    },
+    {
+      "word": "with",
+      "start": 123.443,
+      "end": 123.583,
+      "score": 0.635
+    },
+    {
+      "word": "energy",
+      "start": 123.663,
+      "end": 123.983,
+      "score": 0.857
+    },
+    {
+      "word": "as",
+      "start": 124.023,
+      "end": 124.103,
+      "score": 0.506
+    },
+    {
+      "word": "well.",
+      "start": 124.143,
+      "end": 124.364,
+      "score": 0.813
+    },
+    {
+      "word": "Any",
+      "start": 125.124,
+      "end": 125.264,
+      "score": 0.74
+    },
+    {
+      "word": "mechanical",
+      "start": 125.304,
+      "end": 125.745,
+      "score": 0.763
+    },
+    {
+      "word": "setup",
+      "start": 125.785,
+      "end": 126.045,
+      "score": 0.801
+    },
+    {
+      "word": "will",
+      "start": 126.085,
+      "end": 126.285,
+      "score": 0.819
+    },
+    {
+      "word": "stabilize",
+      "start": 126.365,
+      "end": 126.985,
+      "score": 0.785
+    },
+    {
+      "word": "when",
+      "start": 127.086,
+      "end": 127.206,
+      "score": 0.958
+    },
+    {
+      "word": "the",
+      "start": 127.226,
+      "end": 127.306,
+      "score": 0.829
+    },
+    {
+      "word": "potential",
+      "start": 127.346,
+      "end": 127.766,
+      "score": 0.884
+    },
+    {
+      "word": "energy",
+      "start": 127.826,
+      "end": 128.206,
+      "score": 0.779
+    },
+    {
+      "word": "is",
+      "start": 128.306,
+      "end": 128.386,
+      "score": 0.668
+    },
+    {
+      "word": "at",
+      "start": 128.427,
+      "end": 128.507,
+      "score": 0.712
+    },
+    {
+      "word": "a",
+      "start": 128.547,
+      "end": 128.567,
+      "score": 0.813
+    },
+    {
+      "word": "minimum.",
+      "start": 128.607,
+      "end": 128.927,
+      "score": 0.872
+    },
+    {
+      "word": "So",
+      "start": 130.379,
+      "end": 130.519,
+      "score": 0.926
+    },
+    {
+      "word": "for",
+      "start": 130.559,
+      "end": 130.679,
+      "score": 0.822
+    },
+    {
+      "word": "this",
+      "start": 130.719,
+      "end": 130.879,
+      "score": 0.85
+    },
+    {
+      "word": "light-into-media",
+      "start": 131.06,
+      "end": 132.02,
+      "score": 0.919
+    },
+    {
+      "word": "problem,",
+      "start": 132.06,
+      "end": 132.461,
+      "score": 0.841
+    },
+    {
+      "word": "he",
+      "start": 133.041,
+      "end": 133.121,
+      "score": 0.889
+    },
+    {
+      "word": "imagines",
+      "start": 133.141,
+      "end": 133.501,
+      "score": 0.779
+    },
+    {
+      "word": "putting",
+      "start": 133.561,
+      "end": 133.802,
+      "score": 0.856
+    },
+    {
+      "word": "a",
+      "start": 133.842,
+      "end": 133.882,
+      "score": 0.501
+    },
+    {
+      "word": "rod",
+      "start": 133.982,
+      "end": 134.322,
+      "score": 0.988
+    },
+    {
+      "word": "on",
+      "start": 134.462,
+      "end": 134.542,
+      "score": 0.832
+    },
+    {
+      "word": "the",
+      "start": 134.562,
+      "end": 134.662,
+      "score": 0.753
+    },
+    {
+      "word": "border",
+      "start": 134.702,
+      "end": 135.043,
+      "score": 0.76
+    },
+    {
+      "word": "between",
+      "start": 135.103,
+      "end": 135.523,
+      "score": 0.633
+    },
+    {
+      "word": "the",
+      "start": 135.563,
+      "end": 135.663,
+      "score": 0.667
+    },
+    {
+      "word": "air",
+      "start": 135.763,
+      "end": 135.863,
+      "score": 0.844
+    },
+    {
+      "word": "and",
+      "start": 135.903,
+      "end": 135.983,
+      "score": 0.782
+    },
+    {
+      "word": "the",
+      "start": 136.003,
+      "end": 136.063,
+      "score": 0.972
+    },
+    {
+      "word": "water,",
+      "start": 136.123,
+      "end": 136.424,
+      "score": 0.767
+    },
+    {
+      "word": "and",
+      "start": 137.004,
+      "end": 137.084,
+      "score": 0.873
+    },
+    {
+      "word": "placing",
+      "start": 137.124,
+      "end": 137.424,
+      "score": 0.802
+    },
+    {
+      "word": "a",
+      "start": 137.485,
+      "end": 137.545,
+      "score": 0.338
+    },
+    {
+      "word": "ring",
+      "start": 137.645,
+      "end": 137.905,
+      "score": 0.687
+    },
+    {
+      "word": "on",
+      "start": 137.985,
+      "end": 138.045,
+      "score": 0.768
+    },
+    {
+      "word": "the",
+      "start": 138.085,
+      "end": 138.165,
+      "score": 0.833
+    },
+    {
+      "word": "rod,",
+      "start": 138.205,
+      "end": 138.485,
+      "score": 0.827
+    },
+    {
+      "word": "which",
+      "start": 138.665,
+      "end": 138.786,
+      "score": 0.917
+    },
+    {
+      "word": "is",
+      "start": 138.866,
+      "end": 138.926,
+      "score": 0.649
+    },
+    {
+      "word": "free",
+      "start": 138.946,
+      "end": 139.106,
+      "score": 0.882
+    },
+    {
+      "word": "to",
+      "start": 139.146,
+      "end": 139.206,
+      "score": 0.998
+    },
+    {
+      "word": "slide",
+      "start": 139.246,
+      "end": 139.546,
+      "score": 0.938
+    },
+    {
+      "word": "left",
+      "start": 139.606,
+      "end": 139.746,
+      "score": 0.956
+    },
+    {
+      "word": "and",
+      "start": 139.826,
+      "end": 139.886,
+      "score": 0.337
+    },
+    {
+      "word": "right.",
+      "start": 139.906,
+      "end": 140.107,
+      "score": 0.742
+    },
+    {
+      "word": "Now,",
+      "start": 141.428,
+      "end": 141.568,
+      "score": 0.994
+    },
+    {
+      "word": "attach",
+      "start": 141.848,
+      "end": 142.228,
+      "score": 0.91
+    },
+    {
+      "word": "a",
+      "start": 142.268,
+      "end": 142.368,
+      "score": 0.674
+    },
+    {
+      "word": "spring",
+      "start": 142.408,
+      "end": 142.729,
+      "score": 0.807
+    },
+    {
+      "word": "from",
+      "start": 142.789,
+      "end": 142.929,
+      "score": 0.772
+    },
+    {
+      "word": "the",
+      "start": 142.969,
+      "end": 143.069,
+      "score": 0.738
+    },
+    {
+      "word": "point",
+      "start": 143.109,
+      "end": 143.349,
+      "score": 0.862
+    },
+    {
+      "word": "A",
+      "start": 143.489,
+      "end": 143.609,
+      "score": 0.831
+    },
+    {
+      "word": "to",
+      "start": 143.809,
+      "end": 143.889,
+      "score": 1.0
+    },
+    {
+      "word": "the",
+      "start": 143.929,
+      "end": 144.01,
+      "score": 0.969
+    },
+    {
+      "word": "ring,",
+      "start": 144.09,
+      "end": 144.37,
+      "score": 0.598
+    },
+    {
+      "word": "and",
+      "start": 144.89,
+      "end": 144.99,
+      "score": 0.757
+    },
+    {
+      "word": "a",
+      "start": 145.01,
+      "end": 145.05,
+      "score": 0.497
+    },
+    {
+      "word": "second",
+      "start": 145.09,
+      "end": 145.391,
+      "score": 0.766
+    },
+    {
+      "word": "spring",
+      "start": 145.451,
+      "end": 145.751,
+      "score": 0.781
+    },
+    {
+      "word": "between",
+      "start": 145.811,
+      "end": 146.131,
+      "score": 0.708
+    },
+    {
+      "word": "the",
+      "start": 146.151,
+      "end": 146.251,
+      "score": 0.757
+    },
+    {
+      "word": "ring",
+      "start": 146.331,
+      "end": 146.591,
+      "score": 0.636
+    },
+    {
+      "word": "and",
+      "start": 146.952,
+      "end": 147.052,
+      "score": 0.7
+    },
+    {
+      "word": "point",
+      "start": 147.092,
+      "end": 147.332,
+      "score": 0.882
+    },
+    {
+      "word": "B.",
+      "start": 147.392,
+      "end": 147.652,
+      "score": 0.799
+    },
+    {
+      "word": "You",
+      "start": 148.453,
+      "end": 148.533,
+      "score": 0.78
+    },
+    {
+      "word": "can",
+      "start": 148.553,
+      "end": 148.653,
+      "score": 0.996
+    },
+    {
+      "word": "think",
+      "start": 148.673,
+      "end": 148.833,
+      "score": 0.833
+    },
+    {
+      "word": "of",
+      "start": 148.853,
+      "end": 148.913,
+      "score": 0.75
+    },
+    {
+      "word": "the",
+      "start": 148.953,
+      "end": 149.033,
+      "score": 0.831
+    },
+    {
+      "word": "layout",
+      "start": 149.053,
+      "end": 149.354,
+      "score": 0.871
+    },
+    {
+      "word": "of",
+      "start": 149.374,
+      "end": 149.434,
+      "score": 0.759
+    },
+    {
+      "word": "the",
+      "start": 149.474,
+      "end": 149.554,
+      "score": 0.829
+    },
+    {
+      "word": "springs",
+      "start": 149.594,
+      "end": 150.034,
+      "score": 0.626
+    },
+    {
+      "word": "as",
+      "start": 150.474,
+      "end": 150.555,
+      "score": 0.67
+    },
+    {
+      "word": "a",
+      "start": 150.595,
+      "end": 150.615,
+      "score": 0.998
+    },
+    {
+      "word": "potential",
+      "start": 150.655,
+      "end": 151.055,
+      "score": 0.92
+    },
+    {
+      "word": "path",
+      "start": 151.115,
+      "end": 151.435,
+      "score": 0.849
+    },
+    {
+      "word": "that",
+      "start": 151.495,
+      "end": 151.615,
+      "score": 0.895
+    },
+    {
+      "word": "light",
+      "start": 151.655,
+      "end": 151.835,
+      "score": 0.78
+    },
+    {
+      "word": "could",
+      "start": 151.856,
+      "end": 151.996,
+      "score": 0.83
+    },
+    {
+      "word": "take",
+      "start": 152.016,
+      "end": 152.236,
+      "score": 0.632
+    },
+    {
+      "word": "between",
+      "start": 152.316,
+      "end": 152.616,
+      "score": 0.911
+    },
+    {
+      "word": "A",
+      "start": 152.716,
+      "end": 152.796,
+      "score": 0.985
+    },
+    {
+      "word": "and",
+      "start": 152.856,
+      "end": 152.936,
+      "score": 0.837
+    },
+    {
+      "word": "B.",
+      "start": 152.956,
+      "end": 152.976,
+      "score": 1.0
+    },
+    {
+      "word": "To",
+      "start": 154.298,
+      "end": 154.478,
+      "score": 0.874
+    },
+    {
+      "word": "finagle",
+      "start": 154.578,
+      "end": 154.979,
+      "score": 0.779
+    },
+    {
+      "word": "things",
+      "start": 154.999,
+      "end": 155.219,
+      "score": 0.831
+    },
+    {
+      "word": "so",
+      "start": 155.239,
+      "end": 155.339,
+      "score": 0.853
+    },
+    {
+      "word": "that",
+      "start": 155.379,
+      "end": 155.479,
+      "score": 0.873
+    },
+    {
+      "word": "the",
+      "start": 155.519,
+      "end": 155.58,
+      "score": 0.986
+    },
+    {
+      "word": "potential",
+      "start": 155.62,
+      "end": 156.06,
+      "score": 0.932
+    },
+    {
+      "word": "energy",
+      "start": 156.1,
+      "end": 156.381,
+      "score": 0.754
+    },
+    {
+      "word": "in",
+      "start": 156.401,
+      "end": 156.461,
+      "score": 0.914
+    },
+    {
+      "word": "the",
+      "start": 156.501,
+      "end": 156.561,
+      "score": 0.996
+    },
+    {
+      "word": "springs",
+      "start": 156.601,
+      "end": 156.921,
+      "score": 0.865
+    },
+    {
+      "word": "equals",
+      "start": 157.142,
+      "end": 157.442,
+      "score": 0.777
+    },
+    {
+      "word": "the",
+      "start": 157.482,
+      "end": 157.562,
+      "score": 0.838
+    },
+    {
+      "word": "amount",
+      "start": 157.602,
+      "end": 157.823,
+      "score": 0.838
+    },
+    {
+      "word": "of",
+      "start": 157.843,
+      "end": 157.903,
+      "score": 0.766
+    },
+    {
+      "word": "time",
+      "start": 157.963,
+      "end": 158.243,
+      "score": 0.754
+    },
+    {
+      "word": "that",
+      "start": 158.303,
+      "end": 158.424,
+      "score": 0.858
+    },
+    {
+      "word": "light",
+      "start": 158.484,
+      "end": 158.624,
+      "score": 0.799
+    },
+    {
+      "word": "would",
+      "start": 158.664,
+      "end": 158.804,
+      "score": 0.91
+    },
+    {
+      "word": "take",
+      "start": 158.844,
+      "end": 159.024,
+      "score": 0.838
+    },
+    {
+      "word": "on",
+      "start": 159.105,
+      "end": 159.165,
+      "score": 0.763
+    },
+    {
+      "word": "that",
+      "start": 159.205,
+      "end": 159.345,
+      "score": 0.72
+    },
+    {
+      "word": "path,",
+      "start": 159.405,
+      "end": 159.725,
+      "score": 0.948
+    },
+    {
+      "word": "you",
+      "start": 160.246,
+      "end": 160.346,
+      "score": 0.828
+    },
+    {
+      "word": "just",
+      "start": 160.366,
+      "end": 160.507,
+      "score": 0.828
+    },
+    {
+      "word": "need",
+      "start": 160.527,
+      "end": 160.687,
+      "score": 0.91
+    },
+    {
+      "word": "to",
+      "start": 160.707,
+      "end": 160.787,
+      "score": 0.505
+    },
+    {
+      "word": "make",
+      "start": 160.807,
+      "end": 160.927,
+      "score": 0.913
+    },
+    {
+      "word": "sure",
+      "start": 160.967,
+      "end": 161.067,
+      "score": 0.994
+    },
+    {
+      "word": "that",
+      "start": 161.107,
+      "end": 161.208,
+      "score": 0.876
+    },
+    {
+      "word": "each",
+      "start": 161.328,
+      "end": 161.448,
+      "score": 0.9
+    },
+    {
+      "word": "spring",
+      "start": 161.528,
+      "end": 161.808,
+      "score": 0.861
+    },
+    {
+      "word": "has",
+      "start": 161.848,
+      "end": 161.989,
+      "score": 0.695
+    },
+    {
+      "word": "a",
+      "start": 162.049,
+      "end": 162.069,
+      "score": 0.999
+    },
+    {
+      "word": "constant",
+      "start": 162.149,
+      "end": 162.589,
+      "score": 0.805
+    },
+    {
+      "word": "tension",
+      "start": 162.63,
+      "end": 163.05,
+      "score": 0.863
+    },
+    {
+      "word": "which",
+      "start": 163.531,
+      "end": 163.671,
+      "score": 0.9
+    },
+    {
+      "word": "is",
+      "start": 163.751,
+      "end": 163.831,
+      "score": 0.667
+    },
+    {
+      "word": "inversely",
+      "start": 164.072,
+      "end": 164.592,
+      "score": 0.953
+    },
+    {
+      "word": "proportional",
+      "start": 164.652,
+      "end": 165.213,
+      "score": 0.822
+    },
+    {
+      "word": "to",
+      "start": 165.253,
+      "end": 165.333,
+      "score": 0.948
+    },
+    {
+      "word": "the",
+      "start": 165.373,
+      "end": 165.454,
+      "score": 0.794
+    },
+    {
+      "word": "speed",
+      "start": 165.494,
+      "end": 165.734,
+      "score": 0.975
+    },
+    {
+      "word": "of",
+      "start": 165.774,
+      "end": 165.834,
+      "score": 0.88
+    },
+    {
+      "word": "light",
+      "start": 165.914,
+      "end": 166.094,
+      "score": 0.866
+    },
+    {
+      "word": "in",
+      "start": 166.295,
+      "end": 166.375,
+      "score": 0.915
+    },
+    {
+      "word": "its",
+      "start": 166.455,
+      "end": 166.575,
+      "score": 0.6
+    },
+    {
+      "word": "medium.",
+      "start": 166.655,
+      "end": 166.996,
+      "score": 0.981
+    },
+    {
+      "word": "The",
+      "start": 169.827,
+      "end": 169.887,
+      "score": 0.988
+    },
+    {
+      "word": "only",
+      "start": 169.907,
+      "end": 170.047,
+      "score": 0.873
+    },
+    {
+      "word": "problem",
+      "start": 170.087,
+      "end": 170.347,
+      "score": 0.709
+    },
+    {
+      "word": "with",
+      "start": 170.367,
+      "end": 170.447,
+      "score": 0.134
+    },
+    {
+      "word": "this",
+      "start": 170.487,
+      "end": 170.688,
+      "score": 0.863
+    },
+    {
+      "word": "is",
+      "start": 170.908,
+      "end": 170.988,
+      "score": 0.764
+    },
+    {
+      "word": "that",
+      "start": 171.008,
+      "end": 171.168,
+      "score": 0.733
+    },
+    {
+      "word": "constant",
+      "start": 171.388,
+      "end": 171.768,
+      "score": 0.825
+    },
+    {
+      "word": "tension",
+      "start": 171.788,
+      "end": 172.108,
+      "score": 0.721
+    },
+    {
+      "word": "springs",
+      "start": 172.148,
+      "end": 172.449,
+      "score": 0.86
+    },
+    {
+      "word": "don't",
+      "start": 172.509,
+      "end": 172.789,
+      "score": 0.741
+    },
+    {
+      "word": "actually",
+      "start": 172.929,
+      "end": 173.349,
+      "score": 0.875
+    },
+    {
+      "word": "exist.",
+      "start": 173.489,
+      "end": 173.869,
+      "score": 0.842
+    },
+    {
+      "word": "That's",
+      "start": 174.31,
+      "end": 174.49,
+      "score": 0.906
+    },
+    {
+      "word": "right.",
+      "start": 174.53,
+      "end": 174.69,
+      "score": 0.745
+    },
+    {
+      "word": "They're",
+      "start": 175.01,
+      "end": 175.21,
+      "score": 0.783
+    },
+    {
+      "word": "unphysical",
+      "start": 175.25,
+      "end": 175.811,
+      "score": 0.769
+    },
+    {
+      "word": "springs,",
+      "start": 175.871,
+      "end": 176.191,
+      "score": 0.797
+    },
+    {
+      "word": "but",
+      "start": 176.231,
+      "end": 176.351,
+      "score": 0.833
+    },
+    {
+      "word": "they're",
+      "start": 176.391,
+      "end": 176.611,
+      "score": 0.61
+    },
+    {
+      "word": "still",
+      "start": 176.651,
+      "end": 176.911,
+      "score": 0.816
+    },
+    {
+      "word": "the",
+      "start": 177.512,
+      "end": 177.612,
+      "score": 0.858
+    },
+    {
+      "word": "aspect",
+      "start": 177.712,
+      "end": 178.092,
+      "score": 0.719
+    },
+    {
+      "word": "of",
+      "start": 178.152,
+      "end": 178.232,
+      "score": 0.75
+    },
+    {
+      "word": "the",
+      "start": 178.292,
+      "end": 178.352,
+      "score": 0.986
+    },
+    {
+      "word": "system",
+      "start": 178.412,
+      "end": 178.732,
+      "score": 0.863
+    },
+    {
+      "word": "wanting",
+      "start": 178.772,
+      "end": 179.093,
+      "score": 0.858
+    },
+    {
+      "word": "to",
+      "start": 179.113,
+      "end": 179.213,
+      "score": 0.707
+    },
+    {
+      "word": "minimize",
+      "start": 179.253,
+      "end": 179.753,
+      "score": 0.833
+    },
+    {
+      "word": "its",
+      "start": 179.813,
+      "end": 179.933,
+      "score": 0.577
+    },
+    {
+      "word": "total",
+      "start": 179.973,
+      "end": 180.353,
+      "score": 0.758
+    },
+    {
+      "word": "energy.",
+      "start": 180.594,
+      "end": 180.974,
+      "score": 0.788
+    },
+    {
+      "word": "That",
+      "start": 181.934,
+      "end": 182.074,
+      "score": 0.828
+    },
+    {
+      "word": "physical",
+      "start": 182.134,
+      "end": 182.515,
+      "score": 0.859
+    },
+    {
+      "word": "principle",
+      "start": 182.555,
+      "end": 182.955,
+      "score": 0.772
+    },
+    {
+      "word": "will",
+      "start": 182.995,
+      "end": 183.155,
+      "score": 0.824
+    },
+    {
+      "word": "hold",
+      "start": 183.195,
+      "end": 183.375,
+      "score": 0.667
+    },
+    {
+      "word": "even",
+      "start": 183.455,
+      "end": 183.595,
+      "score": 0.882
+    },
+    {
+      "word": "though",
+      "start": 183.635,
+      "end": 183.795,
+      "score": 0.838
+    },
+    {
+      "word": "these",
+      "start": 183.835,
+      "end": 184.016,
+      "score": 0.806
+    },
+    {
+      "word": "springs",
+      "start": 184.336,
+      "end": 184.656,
+      "score": 0.681
+    },
+    {
+      "word": "don't",
+      "start": 184.696,
+      "end": 184.916,
+      "score": 0.758
+    },
+    {
+      "word": "exist",
+      "start": 184.976,
+      "end": 185.316,
+      "score": 0.958
+    },
+    {
+      "word": "in",
+      "start": 185.937,
+      "end": 185.997,
+      "score": 0.764
+    },
+    {
+      "word": "the",
+      "start": 186.037,
+      "end": 186.097,
+      "score": 1.0
+    },
+    {
+      "word": "world",
+      "start": 186.137,
+      "end": 186.377,
+      "score": 0.702
+    },
+    {
+      "word": "as",
+      "start": 186.437,
+      "end": 186.537,
+      "score": 0.831
+    },
+    {
+      "word": "we",
+      "start": 186.577,
+      "end": 186.677,
+      "score": 0.867
+    },
+    {
+      "word": "know",
+      "start": 186.737,
+      "end": 186.897,
+      "score": 0.794
+    },
+    {
+      "word": "it.",
+      "start": 186.917,
+      "end": 186.957,
+      "score": 0.0
+    },
+    {
+      "word": "The",
+      "start": 188.138,
+      "end": 188.218,
+      "score": 0.857
+    },
+    {
+      "word": "reason",
+      "start": 188.238,
+      "end": 188.498,
+      "score": 0.74
+    },
+    {
+      "word": "springs",
+      "start": 188.658,
+      "end": 188.939,
+      "score": 0.821
+    },
+    {
+      "word": "make",
+      "start": 188.999,
+      "end": 189.179,
+      "score": 0.891
+    },
+    {
+      "word": "the",
+      "start": 189.219,
+      "end": 189.319,
+      "score": 0.874
+    },
+    {
+      "word": "problem",
+      "start": 189.359,
+      "end": 189.659,
+      "score": 0.765
+    },
+    {
+      "word": "simpler,",
+      "start": 189.699,
+      "end": 190.039,
+      "score": 0.802
+    },
+    {
+      "word": "though,",
+      "start": 190.079,
+      "end": 190.279,
+      "score": 0.8
+    },
+    {
+      "word": "is",
+      "start": 190.74,
+      "end": 190.8,
+      "score": 0.772
+    },
+    {
+      "word": "that",
+      "start": 190.82,
+      "end": 190.92,
+      "score": 0.914
+    },
+    {
+      "word": "we",
+      "start": 190.94,
+      "end": 191.02,
+      "score": 0.822
+    },
+    {
+      "word": "can",
+      "start": 191.06,
+      "end": 191.16,
+      "score": 0.679
+    },
+    {
+      "word": "find",
+      "start": 191.22,
+      "end": 191.44,
+      "score": 0.778
+    },
+    {
+      "word": "the",
+      "start": 191.48,
+      "end": 191.56,
+      "score": 0.829
+    },
+    {
+      "word": "stable",
+      "start": 191.58,
+      "end": 191.88,
+      "score": 0.846
+    },
+    {
+      "word": "state",
+      "start": 191.92,
+      "end": 192.201,
+      "score": 0.728
+    },
+    {
+      "word": "just",
+      "start": 192.341,
+      "end": 192.501,
+      "score": 0.857
+    },
+    {
+      "word": "by",
+      "start": 192.521,
+      "end": 192.641,
+      "score": 0.828
+    },
+    {
+      "word": "balancing",
+      "start": 192.701,
+      "end": 193.101,
+      "score": 0.869
+    },
+    {
+      "word": "forces.",
+      "start": 193.141,
+      "end": 193.501,
+      "score": 0.781
+    },
+    {
+      "word": "The",
+      "start": 194.122,
+      "end": 194.202,
+      "score": 0.973
+    },
+    {
+      "word": "leftward",
+      "start": 194.242,
+      "end": 194.702,
+      "score": 0.724
+    },
+    {
+      "word": "component",
+      "start": 194.762,
+      "end": 195.162,
+      "score": 0.914
+    },
+    {
+      "word": "of",
+      "start": 195.202,
+      "end": 195.283,
+      "score": 0.816
+    },
+    {
+      "word": "the",
+      "start": 195.303,
+      "end": 195.383,
+      "score": 0.831
+    },
+    {
+      "word": "force",
+      "start": 195.423,
+      "end": 195.643,
+      "score": 0.932
+    },
+    {
+      "word": "in",
+      "start": 195.683,
+      "end": 195.763,
+      "score": 0.741
+    },
+    {
+      "word": "the",
+      "start": 195.783,
+      "end": 195.843,
+      "score": 0.997
+    },
+    {
+      "word": "top",
+      "start": 195.883,
+      "end": 196.083,
+      "score": 0.999
+    },
+    {
+      "word": "spring",
+      "start": 196.123,
+      "end": 196.403,
+      "score": 0.901
+    },
+    {
+      "word": "has",
+      "start": 196.783,
+      "end": 196.924,
+      "score": 0.856
+    },
+    {
+      "word": "to",
+      "start": 196.964,
+      "end": 197.044,
+      "score": 0.844
+    },
+    {
+      "word": "cancel",
+      "start": 197.084,
+      "end": 197.404,
+      "score": 0.852
+    },
+    {
+      "word": "out",
+      "start": 197.444,
+      "end": 197.544,
+      "score": 0.947
+    },
+    {
+      "word": "with",
+      "start": 197.584,
+      "end": 197.704,
+      "score": 0.75
+    },
+    {
+      "word": "the",
+      "start": 197.724,
+      "end": 197.804,
+      "score": 0.818
+    },
+    {
+      "word": "rightward",
+      "start": 197.864,
+      "end": 198.224,
+      "score": 0.709
+    },
+    {
+      "word": "component",
+      "start": 198.264,
+      "end": 198.705,
+      "score": 0.833
+    },
+    {
+      "word": "in",
+      "start": 198.825,
+      "end": 198.905,
+      "score": 0.814
+    },
+    {
+      "word": "the",
+      "start": 198.925,
+      "end": 199.005,
+      "score": 0.832
+    },
+    {
+      "word": "force",
+      "start": 199.045,
+      "end": 199.265,
+      "score": 0.862
+    },
+    {
+      "word": "of",
+      "start": 199.305,
+      "end": 199.365,
+      "score": 0.746
+    },
+    {
+      "word": "the",
+      "start": 199.385,
+      "end": 199.465,
+      "score": 0.828
+    },
+    {
+      "word": "bottom",
+      "start": 199.505,
+      "end": 199.805,
+      "score": 0.923
+    },
+    {
+      "word": "spring.",
+      "start": 199.845,
+      "end": 200.126,
+      "score": 0.865
+    },
+    {
+      "word": "In",
+      "start": 200.866,
+      "end": 200.926,
+      "score": 0.996
+    },
+    {
+      "word": "this",
+      "start": 200.946,
+      "end": 201.086,
+      "score": 0.71
+    },
+    {
+      "word": "case,",
+      "start": 201.106,
+      "end": 201.346,
+      "score": 0.896
+    },
+    {
+      "word": "the",
+      "start": 201.807,
+      "end": 201.907,
+      "score": 0.809
+    },
+    {
+      "word": "horizontal",
+      "start": 201.947,
+      "end": 202.427,
+      "score": 0.763
+    },
+    {
+      "word": "component",
+      "start": 202.467,
+      "end": 202.867,
+      "score": 0.929
+    },
+    {
+      "word": "in",
+      "start": 202.907,
+      "end": 202.967,
+      "score": 0.791
+    },
+    {
+      "word": "each",
+      "start": 203.027,
+      "end": 203.167,
+      "score": 0.861
+    },
+    {
+      "word": "spring",
+      "start": 203.227,
+      "end": 203.568,
+      "score": 0.718
+    },
+    {
+      "word": "is",
+      "start": 204.028,
+      "end": 204.108,
+      "score": 0.668
+    },
+    {
+      "word": "just",
+      "start": 204.128,
+      "end": 204.308,
+      "score": 0.822
+    },
+    {
+      "word": "the",
+      "start": 204.348,
+      "end": 204.428,
+      "score": 0.875
+    },
+    {
+      "word": "total",
+      "start": 204.468,
+      "end": 204.748,
+      "score": 0.839
+    },
+    {
+      "word": "force",
+      "start": 204.788,
+      "end": 205.069,
+      "score": 0.762
+    },
+    {
+      "word": "times",
+      "start": 205.309,
+      "end": 205.529,
+      "score": 0.751
+    },
+    {
+      "word": "the",
+      "start": 205.569,
+      "end": 205.669,
+      "score": 0.83
+    },
+    {
+      "word": "sine",
+      "start": 205.729,
+      "end": 206.089,
+      "score": 0.511
+    },
+    {
+      "word": "of",
+      "start": 206.129,
+      "end": 206.189,
+      "score": 0.75
+    },
+    {
+      "word": "the",
+      "start": 206.229,
+      "end": 206.329,
+      "score": 0.739
+    },
+    {
+      "word": "angle",
+      "start": 206.469,
+      "end": 206.77,
+      "score": 0.694
+    },
+    {
+      "word": "that",
+      "start": 206.91,
+      "end": 207.03,
+      "score": 0.847
+    },
+    {
+      "word": "that",
+      "start": 207.05,
+      "end": 207.21,
+      "score": 0.762
+    },
+    {
+      "word": "spring",
+      "start": 207.25,
+      "end": 207.51,
+      "score": 0.751
+    },
+    {
+      "word": "makes",
+      "start": 207.55,
+      "end": 207.75,
+      "score": 0.857
+    },
+    {
+      "word": "with",
+      "start": 207.79,
+      "end": 207.93,
+      "score": 0.947
+    },
+    {
+      "word": "the",
+      "start": 207.95,
+      "end": 208.03,
+      "score": 0.832
+    },
+    {
+      "word": "vertical.",
+      "start": 208.07,
+      "end": 208.451,
+      "score": 0.894
+    },
+    {
+      "word": "And",
+      "start": 209.912,
+      "end": 209.992,
+      "score": 0.861
+    },
+    {
+      "word": "from",
+      "start": 210.032,
+      "end": 210.192,
+      "score": 0.818
+    },
+    {
+      "word": "that,",
+      "start": 210.252,
+      "end": 210.512,
+      "score": 0.833
+    },
+    {
+      "word": "out",
+      "start": 211.052,
+      "end": 211.172,
+      "score": 0.884
+    },
+    {
+      "word": "pops",
+      "start": 211.232,
+      "end": 211.553,
+      "score": 0.861
+    },
+    {
+      "word": "this",
+      "start": 211.593,
+      "end": 211.733,
+      "score": 0.628
+    },
+    {
+      "word": "thing",
+      "start": 211.773,
+      "end": 211.973,
+      "score": 0.916
+    },
+    {
+      "word": "called",
+      "start": 211.993,
+      "end": 212.233,
+      "score": 0.805
+    },
+    {
+      "word": "Snell's",
+      "start": 212.313,
+      "end": 212.653,
+      "score": 0.774
+    },
+    {
+      "word": "Law,",
+      "start": 212.733,
+      "end": 212.953,
+      "score": 0.993
+    },
+    {
+      "word": "which",
+      "start": 212.993,
+      "end": 213.154,
+      "score": 0.808
+    },
+    {
+      "word": "many",
+      "start": 213.214,
+      "end": 213.454,
+      "score": 0.855
+    },
+    {
+      "word": "of",
+      "start": 213.474,
+      "end": 213.554,
+      "score": 0.668
+    },
+    {
+      "word": "us",
+      "start": 213.634,
+      "end": 213.714,
+      "score": 0.817
+    },
+    {
+      "word": "learned",
+      "start": 213.794,
+      "end": 214.014,
+      "score": 0.815
+    },
+    {
+      "word": "in",
+      "start": 214.034,
+      "end": 214.094,
+      "score": 0.776
+    },
+    {
+      "word": "our",
+      "start": 214.154,
+      "end": 214.254,
+      "score": 0.672
+    },
+    {
+      "word": "first",
+      "start": 214.314,
+      "end": 214.534,
+      "score": 0.851
+    },
+    {
+      "word": "physics",
+      "start": 214.594,
+      "end": 214.935,
+      "score": 0.878
+    },
+    {
+      "word": "class.",
+      "start": 214.975,
+      "end": 215.255,
+      "score": 0.946
+    },
+    {
+      "word": "Snell's",
+      "start": 216.192,
+      "end": 216.452,
+      "score": 0.704
+    },
+    {
+      "word": "law",
+      "start": 216.492,
+      "end": 216.693,
+      "score": 0.901
+    },
+    {
+      "word": "says",
+      "start": 216.733,
+      "end": 216.933,
+      "score": 0.84
+    },
+    {
+      "word": "that",
+      "start": 216.973,
+      "end": 217.133,
+      "score": 0.872
+    },
+    {
+      "word": "sine",
+      "start": 217.394,
+      "end": 217.634,
+      "score": 0.801
+    },
+    {
+      "word": "of",
+      "start": 217.674,
+      "end": 217.734,
+      "score": 0.824
+    },
+    {
+      "word": "theta",
+      "start": 217.774,
+      "end": 218.094,
+      "score": 0.938
+    },
+    {
+      "word": "divided",
+      "start": 218.255,
+      "end": 218.635,
+      "score": 0.879
+    },
+    {
+      "word": "by",
+      "start": 218.675,
+      "end": 218.775,
+      "score": 0.827
+    },
+    {
+      "word": "the",
+      "start": 218.815,
+      "end": 218.875,
+      "score": 0.99
+    },
+    {
+      "word": "speed",
+      "start": 218.936,
+      "end": 219.156,
+      "score": 0.965
+    },
+    {
+      "word": "of",
+      "start": 219.196,
+      "end": 219.256,
+      "score": 0.75
+    },
+    {
+      "word": "light",
+      "start": 219.316,
+      "end": 219.556,
+      "score": 0.684
+    },
+    {
+      "word": "stays",
+      "start": 219.957,
+      "end": 220.257,
+      "score": 0.951
+    },
+    {
+      "word": "constant",
+      "start": 220.337,
+      "end": 220.818,
+      "score": 0.845
+    },
+    {
+      "word": "when",
+      "start": 220.898,
+      "end": 221.018,
+      "score": 1.0
+    },
+    {
+      "word": "light",
+      "start": 221.058,
+      "end": 221.219,
+      "score": 0.706
+    },
+    {
+      "word": "travels",
+      "start": 221.259,
+      "end": 221.539,
+      "score": 0.795
+    },
+    {
+      "word": "from",
+      "start": 221.579,
+      "end": 221.699,
+      "score": 0.97
+    },
+    {
+      "word": "one",
+      "start": 221.799,
+      "end": 221.879,
+      "score": 0.981
+    },
+    {
+      "word": "medium",
+      "start": 221.939,
+      "end": 222.18,
+      "score": 0.997
+    },
+    {
+      "word": "to",
+      "start": 222.24,
+      "end": 222.34,
+      "score": 0.733
+    },
+    {
+      "word": "another,",
+      "start": 222.4,
+      "end": 222.68,
+      "score": 0.785
+    },
+    {
+      "word": "where",
+      "start": 223.061,
+      "end": 223.281,
+      "score": 0.81
+    },
+    {
+      "word": "theta",
+      "start": 223.461,
+      "end": 223.782,
+      "score": 0.98
+    },
+    {
+      "word": "is",
+      "start": 223.862,
+      "end": 223.922,
+      "score": 0.912
+    },
+    {
+      "word": "the",
+      "start": 223.962,
+      "end": 224.062,
+      "score": 0.73
+    },
+    {
+      "word": "angle",
+      "start": 224.202,
+      "end": 224.443,
+      "score": 0.707
+    },
+    {
+      "word": "that",
+      "start": 224.463,
+      "end": 224.583,
+      "score": 0.881
+    },
+    {
+      "word": "that",
+      "start": 224.623,
+      "end": 224.743,
+      "score": 0.992
+    },
+    {
+      "word": "beam",
+      "start": 224.783,
+      "end": 224.963,
+      "score": 0.804
+    },
+    {
+      "word": "of",
+      "start": 225.003,
+      "end": 225.043,
+      "score": 1.0
+    },
+    {
+      "word": "light",
+      "start": 225.083,
+      "end": 225.264,
+      "score": 0.72
+    },
+    {
+      "word": "makes",
+      "start": 225.324,
+      "end": 225.564,
+      "score": 0.953
+    },
+    {
+      "word": "with",
+      "start": 225.905,
+      "end": 226.045,
+      "score": 0.788
+    },
+    {
+      "word": "a",
+      "start": 226.105,
+      "end": 226.125,
+      "score": 0.995
+    },
+    {
+      "word": "line",
+      "start": 226.185,
+      "end": 226.425,
+      "score": 0.837
+    },
+    {
+      "word": "perpendicular",
+      "start": 226.525,
+      "end": 227.246,
+      "score": 0.865
+    },
+    {
+      "word": "to",
+      "start": 227.266,
+      "end": 227.366,
+      "score": 0.59
+    },
+    {
+      "word": "the",
+      "start": 227.386,
+      "end": 227.467,
+      "score": 0.833
+    },
+    {
+      "word": "interface",
+      "start": 227.547,
+      "end": 227.987,
+      "score": 0.909
+    },
+    {
+      "word": "between",
+      "start": 228.027,
+      "end": 228.308,
+      "score": 0.892
+    },
+    {
+      "word": "the",
+      "start": 228.328,
+      "end": 228.388,
+      "score": 0.961
+    },
+    {
+      "word": "two",
+      "start": 228.428,
+      "end": 228.568,
+      "score": 0.948
+    },
+    {
+      "word": "media.",
+      "start": 228.628,
+      "end": 228.968,
+      "score": 0.893
+    },
+    {
+      "word": "So",
+      "start": 229.629,
+      "end": 229.729,
+      "score": 0.911
+    },
+    {
+      "word": "there",
+      "start": 229.749,
+      "end": 229.89,
+      "score": 0.831
+    },
+    {
+      "word": "you",
+      "start": 229.93,
+      "end": 230.01,
+      "score": 0.884
+    },
+    {
+      "word": "go,",
+      "start": 230.05,
+      "end": 230.19,
+      "score": 0.698
+    },
+    {
+      "word": "no",
+      "start": 230.45,
+      "end": 230.571,
+      "score": 0.941
+    },
+    {
+      "word": "calculus",
+      "start": 230.611,
+      "end": 231.031,
+      "score": 0.798
+    },
+    {
+      "word": "necessary.",
+      "start": 231.071,
+      "end": 231.532,
+      "score": 0.96
+    }
+  ]
+}
